@@ -1,0 +1,4384 @@
+randomtestcard2.c: 
+----------------- Testing Card: council_room ----------------
+TEST 1: +4 cards
+starting hand count = 51, starting deck count = 190
+about to call effect
+effect called
+hand count = 54, expected = 54
+deck count = 186, expected = 186
+TEST 2: +4 cards
+starting hand count = 27, starting deck count = 133
+about to call effect
+effect called
+hand count = 30, expected = 30
+deck count = 129, expected = 129
+TEST 3: +4 cards
+starting hand count = 456, starting deck count = 261
+about to call effect
+effect called
+hand count = 459, expected = 459
+deck count = 257, expected = 257
+TEST 4: +4 cards
+starting hand count = 11, starting deck count = 110
+about to call effect
+effect called
+hand count = 14, expected = 14
+deck count = 106, expected = 106
+TEST 5: +4 cards
+starting hand count = 37, starting deck count = 474
+about to call effect
+effect called
+hand count = 40, expected = 40
+deck count = 470, expected = 470
+TEST 6: +4 cards
+starting hand count = 418, starting deck count = 12
+about to call effect
+effect called
+hand count = 421, expected = 421
+deck count = 8, expected = 8
+TEST 7: +4 cards
+starting hand count = 143, starting deck count = 161
+about to call effect
+effect called
+hand count = 146, expected = 146
+deck count = 157, expected = 157
+TEST 8: +4 cards
+starting hand count = 260, starting deck count = 475
+about to call effect
+effect called
+hand count = 263, expected = 263
+deck count = 471, expected = 471
+TEST 9: +4 cards
+starting hand count = 411, starting deck count = 28
+about to call effect
+effect called
+hand count = 414, expected = 414
+deck count = 24, expected = 24
+TEST 10: +4 cards
+starting hand count = 498, starting deck count = 491
+about to call effect
+effect called
+hand count = 501, expected = 501
+deck count = 487, expected = 487
+TEST 11: +4 cards
+starting hand count = 277, starting deck count = 372
+about to call effect
+effect called
+hand count = 280, expected = 280
+deck count = 368, expected = 368
+TEST 12: +4 cards
+starting hand count = 196, starting deck count = 144
+about to call effect
+effect called
+hand count = 199, expected = 199
+deck count = 140, expected = 140
+TEST 13: +4 cards
+starting hand count = 120, starting deck count = 228
+about to call effect
+effect called
+hand count = 123, expected = 123
+deck count = 224, expected = 224
+TEST 14: +4 cards
+starting hand count = 207, starting deck count = 358
+about to call effect
+effect called
+hand count = 210, expected = 210
+deck count = 354, expected = 354
+TEST 15: +4 cards
+starting hand count = 69, starting deck count = 227
+about to call effect
+effect called
+hand count = 72, expected = 72
+deck count = 223, expected = 223
+TEST 16: +4 cards
+starting hand count = 11, starting deck count = 63
+about to call effect
+effect called
+hand count = 14, expected = 14
+deck count = 59, expected = 59
+TEST 17: +4 cards
+starting hand count = 431, starting deck count = 82
+about to call effect
+effect called
+hand count = 434, expected = 434
+deck count = 78, expected = 78
+TEST 18: +4 cards
+starting hand count = 373, starting deck count = 382
+about to call effect
+effect called
+hand count = 376, expected = 376
+deck count = 378, expected = 378
+TEST 19: +4 cards
+starting hand count = 13, starting deck count = 303
+about to call effect
+effect called
+hand count = 16, expected = 16
+deck count = 299, expected = 299
+TEST 20: +4 cards
+starting hand count = 464, starting deck count = 353
+about to call effect
+effect called
+hand count = 467, expected = 467
+deck count = 349, expected = 349
+TEST 21: +4 cards
+starting hand count = 333, starting deck count = 267
+about to call effect
+effect called
+hand count = 336, expected = 336
+deck count = 263, expected = 263
+TEST 22: +4 cards
+starting hand count = 353, starting deck count = 449
+about to call effect
+effect called
+hand count = 356, expected = 356
+deck count = 445, expected = 445
+TEST 23: +4 cards
+starting hand count = 112, starting deck count = 36
+about to call effect
+effect called
+hand count = 115, expected = 115
+deck count = 32, expected = 32
+TEST 24: +4 cards
+starting hand count = 134, starting deck count = 413
+about to call effect
+effect called
+hand count = 137, expected = 137
+deck count = 409, expected = 409
+TEST 25: +4 cards
+starting hand count = 232, starting deck count = 329
+about to call effect
+effect called
+hand count = 235, expected = 235
+deck count = 325, expected = 325
+TEST 26: +4 cards
+starting hand count = 175, starting deck count = 134
+about to call effect
+effect called
+hand count = 178, expected = 178
+deck count = 130, expected = 130
+TEST 27: +4 cards
+starting hand count = 25, starting deck count = 467
+about to call effect
+effect called
+hand count = 28, expected = 28
+deck count = 463, expected = 463
+TEST 28: +4 cards
+starting hand count = 162, starting deck count = 457
+about to call effect
+effect called
+hand count = 165, expected = 165
+deck count = 453, expected = 453
+TEST 29: +4 cards
+starting hand count = 144, starting deck count = 135
+about to call effect
+effect called
+hand count = 147, expected = 147
+deck count = 131, expected = 131
+TEST 30: +4 cards
+starting hand count = 347, starting deck count = 41
+about to call effect
+effect called
+hand count = 350, expected = 350
+deck count = 37, expected = 37
+TEST 31: +4 cards
+starting hand count = 303, starting deck count = 32
+about to call effect
+effect called
+hand count = 306, expected = 306
+deck count = 28, expected = 28
+TEST 32: +4 cards
+starting hand count = 408, starting deck count = 395
+about to call effect
+effect called
+hand count = 411, expected = 411
+deck count = 391, expected = 391
+TEST 33: +4 cards
+starting hand count = 108, starting deck count = 74
+about to call effect
+effect called
+hand count = 111, expected = 111
+deck count = 70, expected = 70
+TEST 34: +4 cards
+starting hand count = 247, starting deck count = 344
+about to call effect
+effect called
+hand count = 250, expected = 250
+deck count = 340, expected = 340
+TEST 35: +4 cards
+starting hand count = 431, starting deck count = 121
+about to call effect
+effect called
+hand count = 434, expected = 434
+deck count = 117, expected = 117
+TEST 36: +4 cards
+starting hand count = 318, starting deck count = 427
+about to call effect
+effect called
+hand count = 321, expected = 321
+deck count = 423, expected = 423
+TEST 37: +4 cards
+starting hand count = 203, starting deck count = 132
+about to call effect
+effect called
+hand count = 206, expected = 206
+deck count = 128, expected = 128
+TEST 38: +4 cards
+starting hand count = 28, starting deck count = 355
+about to call effect
+effect called
+hand count = 31, expected = 31
+deck count = 351, expected = 351
+TEST 39: +4 cards
+starting hand count = 261, starting deck count = 422
+about to call effect
+effect called
+hand count = 264, expected = 264
+deck count = 418, expected = 418
+TEST 40: +4 cards
+starting hand count = 190, starting deck count = 103
+about to call effect
+effect called
+hand count = 193, expected = 193
+deck count = 99, expected = 99
+TEST 41: +4 cards
+starting hand count = 110, starting deck count = 41
+about to call effect
+effect called
+hand count = 113, expected = 113
+deck count = 37, expected = 37
+TEST 42: +4 cards
+starting hand count = 317, starting deck count = 373
+about to call effect
+effect called
+hand count = 320, expected = 320
+deck count = 369, expected = 369
+TEST 43: +4 cards
+starting hand count = 495, starting deck count = 243
+about to call effect
+effect called
+hand count = 498, expected = 498
+deck count = 239, expected = 239
+TEST 44: +4 cards
+starting hand count = 370, starting deck count = 331
+about to call effect
+effect called
+hand count = 373, expected = 373
+deck count = 327, expected = 327
+TEST 45: +4 cards
+starting hand count = 312, starting deck count = 32
+about to call effect
+effect called
+hand count = 315, expected = 315
+deck count = 28, expected = 28
+TEST 46: +4 cards
+starting hand count = 268, starting deck count = 318
+about to call effect
+effect called
+hand count = 271, expected = 271
+deck count = 314, expected = 314
+TEST 47: +4 cards
+starting hand count = 179, starting deck count = 272
+about to call effect
+effect called
+hand count = 182, expected = 182
+deck count = 268, expected = 268
+TEST 48: +4 cards
+starting hand count = 138, starting deck count = 497
+about to call effect
+effect called
+hand count = 141, expected = 141
+deck count = 493, expected = 493
+TEST 49: +4 cards
+starting hand count = 22, starting deck count = 109
+about to call effect
+effect called
+hand count = 25, expected = 25
+deck count = 105, expected = 105
+TEST 50: +4 cards
+starting hand count = 238, starting deck count = 320
+about to call effect
+effect called
+hand count = 241, expected = 241
+deck count = 316, expected = 316
+TEST 51: +4 cards
+starting hand count = 213, starting deck count = 71
+about to call effect
+effect called
+hand count = 216, expected = 216
+deck count = 67, expected = 67
+TEST 52: +4 cards
+starting hand count = 26, starting deck count = 67
+about to call effect
+effect called
+hand count = 29, expected = 29
+deck count = 63, expected = 63
+TEST 53: +4 cards
+starting hand count = 179, starting deck count = 215
+about to call effect
+effect called
+hand count = 182, expected = 182
+deck count = 211, expected = 211
+TEST 54: +4 cards
+starting hand count = 22, starting deck count = 180
+about to call effect
+effect called
+hand count = 25, expected = 25
+deck count = 176, expected = 176
+TEST 55: +4 cards
+starting hand count = 60, starting deck count = 69
+about to call effect
+effect called
+hand count = 63, expected = 63
+deck count = 65, expected = 65
+TEST 56: +4 cards
+starting hand count = 166, starting deck count = 268
+about to call effect
+effect called
+hand count = 169, expected = 169
+deck count = 264, expected = 264
+TEST 57: +4 cards
+starting hand count = 353, starting deck count = 466
+about to call effect
+effect called
+hand count = 356, expected = 356
+deck count = 462, expected = 462
+TEST 58: +4 cards
+starting hand count = 401, starting deck count = 7
+about to call effect
+effect called
+hand count = 404, expected = 404
+deck count = 3, expected = 3
+TEST 59: +4 cards
+starting hand count = 395, starting deck count = 416
+about to call effect
+effect called
+hand count = 398, expected = 398
+deck count = 412, expected = 412
+TEST 60: +4 cards
+starting hand count = 101, starting deck count = 97
+about to call effect
+effect called
+hand count = 104, expected = 104
+deck count = 93, expected = 93
+TEST 61: +4 cards
+starting hand count = 255, starting deck count = 40
+about to call effect
+effect called
+hand count = 258, expected = 258
+deck count = 36, expected = 36
+TEST 62: +4 cards
+starting hand count = 265, starting deck count = 410
+about to call effect
+effect called
+hand count = 268, expected = 268
+deck count = 406, expected = 406
+TEST 63: +4 cards
+starting hand count = 171, starting deck count = 165
+about to call effect
+effect called
+hand count = 174, expected = 174
+deck count = 161, expected = 161
+TEST 64: +4 cards
+starting hand count = 342, starting deck count = 47
+about to call effect
+effect called
+hand count = 345, expected = 345
+deck count = 43, expected = 43
+TEST 65: +4 cards
+starting hand count = 385, starting deck count = 163
+about to call effect
+effect called
+hand count = 388, expected = 388
+deck count = 159, expected = 159
+TEST 66: +4 cards
+starting hand count = 304, starting deck count = 484
+about to call effect
+effect called
+hand count = 307, expected = 307
+deck count = 480, expected = 480
+TEST 67: +4 cards
+starting hand count = 243, starting deck count = 110
+about to call effect
+effect called
+hand count = 246, expected = 246
+deck count = 106, expected = 106
+TEST 68: +4 cards
+starting hand count = 285, starting deck count = 64
+about to call effect
+effect called
+hand count = 288, expected = 288
+deck count = 60, expected = 60
+TEST 69: +4 cards
+starting hand count = 27, starting deck count = 382
+about to call effect
+effect called
+hand count = 30, expected = 30
+deck count = 378, expected = 378
+TEST 70: +4 cards
+starting hand count = 157, starting deck count = 255
+about to call effect
+effect called
+hand count = 160, expected = 160
+deck count = 251, expected = 251
+TEST 71: +4 cards
+starting hand count = 492, starting deck count = 310
+about to call effect
+effect called
+hand count = 495, expected = 495
+deck count = 306, expected = 306
+TEST 72: +4 cards
+starting hand count = 439, starting deck count = 285
+about to call effect
+effect called
+hand count = 442, expected = 442
+deck count = 281, expected = 281
+TEST 73: +4 cards
+starting hand count = 446, starting deck count = 472
+about to call effect
+effect called
+hand count = 449, expected = 449
+deck count = 468, expected = 468
+TEST 74: +4 cards
+starting hand count = 416, starting deck count = 257
+about to call effect
+effect called
+hand count = 419, expected = 419
+deck count = 253, expected = 253
+TEST 75: +4 cards
+starting hand count = 45, starting deck count = 144
+about to call effect
+effect called
+hand count = 48, expected = 48
+deck count = 140, expected = 140
+TEST 76: +4 cards
+starting hand count = 10, starting deck count = 299
+about to call effect
+effect called
+hand count = 13, expected = 13
+deck count = 295, expected = 295
+TEST 77: +4 cards
+starting hand count = 82, starting deck count = 76
+about to call effect
+effect called
+hand count = 85, expected = 85
+deck count = 72, expected = 72
+TEST 78: +4 cards
+starting hand count = 73, starting deck count = 303
+about to call effect
+effect called
+hand count = 76, expected = 76
+deck count = 299, expected = 299
+TEST 79: +4 cards
+starting hand count = 354, starting deck count = 11
+about to call effect
+effect called
+hand count = 357, expected = 357
+deck count = 7, expected = 7
+TEST 80: +4 cards
+starting hand count = 441, starting deck count = 21
+about to call effect
+effect called
+hand count = 444, expected = 444
+deck count = 17, expected = 17
+TEST 81: +4 cards
+starting hand count = 117, starting deck count = 78
+about to call effect
+effect called
+hand count = 120, expected = 120
+deck count = 74, expected = 74
+TEST 82: +4 cards
+starting hand count = 35, starting deck count = 40
+about to call effect
+effect called
+hand count = 38, expected = 38
+deck count = 36, expected = 36
+TEST 83: +4 cards
+starting hand count = 260, starting deck count = 201
+about to call effect
+effect called
+hand count = 263, expected = 263
+deck count = 197, expected = 197
+TEST 84: +4 cards
+starting hand count = 37, starting deck count = 210
+about to call effect
+effect called
+hand count = 40, expected = 40
+deck count = 206, expected = 206
+TEST 85: +4 cards
+starting hand count = 197, starting deck count = 218
+about to call effect
+effect called
+hand count = 200, expected = 200
+deck count = 214, expected = 214
+TEST 86: +4 cards
+starting hand count = 64, starting deck count = 496
+about to call effect
+effect called
+hand count = 67, expected = 67
+deck count = 492, expected = 492
+TEST 87: +4 cards
+starting hand count = 354, starting deck count = 233
+about to call effect
+effect called
+hand count = 357, expected = 357
+deck count = 229, expected = 229
+TEST 88: +4 cards
+starting hand count = 127, starting deck count = 338
+about to call effect
+effect called
+hand count = 130, expected = 130
+deck count = 334, expected = 334
+TEST 89: +4 cards
+starting hand count = 397, starting deck count = 482
+about to call effect
+effect called
+hand count = 400, expected = 400
+deck count = 478, expected = 478
+TEST 90: +4 cards
+starting hand count = 106, starting deck count = 69
+about to call effect
+effect called
+hand count = 109, expected = 109
+deck count = 65, expected = 65
+TEST 91: +4 cards
+starting hand count = 30, starting deck count = 445
+about to call effect
+effect called
+hand count = 33, expected = 33
+deck count = 441, expected = 441
+TEST 92: +4 cards
+starting hand count = 407, starting deck count = 495
+about to call effect
+effect called
+hand count = 410, expected = 410
+deck count = 491, expected = 491
+TEST 93: +4 cards
+starting hand count = 349, starting deck count = 331
+about to call effect
+effect called
+hand count = 352, expected = 352
+deck count = 327, expected = 327
+TEST 94: +4 cards
+starting hand count = 48, starting deck count = 455
+about to call effect
+effect called
+hand count = 51, expected = 51
+deck count = 451, expected = 451
+TEST 95: +4 cards
+starting hand count = 175, starting deck count = 132
+about to call effect
+effect called
+hand count = 178, expected = 178
+deck count = 128, expected = 128
+TEST 96: +4 cards
+starting hand count = 201, starting deck count = 87
+about to call effect
+effect called
+hand count = 204, expected = 204
+deck count = 83, expected = 83
+TEST 97: +4 cards
+starting hand count = 96, starting deck count = 204
+about to call effect
+effect called
+hand count = 99, expected = 99
+deck count = 200, expected = 200
+TEST 98: +4 cards
+starting hand count = 42, starting deck count = 482
+about to call effect
+effect called
+hand count = 45, expected = 45
+deck count = 478, expected = 478
+TEST 99: +4 cards
+starting hand count = 321, starting deck count = 166
+about to call effect
+effect called
+hand count = 324, expected = 324
+deck count = 162, expected = 162
+TEST 100: +4 cards
+starting hand count = 211, starting deck count = 18
+about to call effect
+effect called
+hand count = 214, expected = 214
+deck count = 14, expected = 14
+TEST 101: +4 cards
+starting hand count = 10, starting deck count = 361
+about to call effect
+effect called
+hand count = 13, expected = 13
+deck count = 357, expected = 357
+TEST 102: +4 cards
+starting hand count = 93, starting deck count = 44
+about to call effect
+effect called
+hand count = 96, expected = 96
+deck count = 40, expected = 40
+TEST 103: +4 cards
+starting hand count = 87, starting deck count = 398
+about to call effect
+effect called
+hand count = 90, expected = 90
+deck count = 394, expected = 394
+TEST 104: +4 cards
+starting hand count = 390, starting deck count = 108
+about to call effect
+effect called
+hand count = 393, expected = 393
+deck count = 104, expected = 104
+TEST 105: +4 cards
+starting hand count = 130, starting deck count = 478
+about to call effect
+effect called
+hand count = 133, expected = 133
+deck count = 474, expected = 474
+TEST 106: +4 cards
+starting hand count = 92, starting deck count = 281
+about to call effect
+effect called
+hand count = 95, expected = 95
+deck count = 277, expected = 277
+TEST 107: +4 cards
+starting hand count = 75, starting deck count = 228
+about to call effect
+effect called
+hand count = 78, expected = 78
+deck count = 224, expected = 224
+TEST 108: +4 cards
+starting hand count = 424, starting deck count = 389
+about to call effect
+effect called
+hand count = 427, expected = 427
+deck count = 385, expected = 385
+TEST 109: +4 cards
+starting hand count = 212, starting deck count = 64
+about to call effect
+effect called
+hand count = 215, expected = 215
+deck count = 60, expected = 60
+TEST 110: +4 cards
+starting hand count = 466, starting deck count = 121
+about to call effect
+effect called
+hand count = 469, expected = 469
+deck count = 117, expected = 117
+TEST 111: +4 cards
+starting hand count = 487, starting deck count = 305
+about to call effect
+effect called
+hand count = 490, expected = 490
+deck count = 301, expected = 301
+TEST 112: +4 cards
+starting hand count = 255, starting deck count = 397
+about to call effect
+effect called
+hand count = 258, expected = 258
+deck count = 393, expected = 393
+TEST 113: +4 cards
+starting hand count = 410, starting deck count = 28
+about to call effect
+effect called
+hand count = 413, expected = 413
+deck count = 24, expected = 24
+TEST 114: +4 cards
+starting hand count = 202, starting deck count = 307
+about to call effect
+effect called
+hand count = 205, expected = 205
+deck count = 303, expected = 303
+TEST 115: +4 cards
+starting hand count = 220, starting deck count = 454
+about to call effect
+effect called
+hand count = 223, expected = 223
+deck count = 450, expected = 450
+TEST 116: +4 cards
+starting hand count = 192, starting deck count = 131
+about to call effect
+effect called
+hand count = 195, expected = 195
+deck count = 127, expected = 127
+TEST 117: +4 cards
+starting hand count = 1, starting deck count = 215
+about to call effect
+effect called
+hand count = 4, expected = 4
+deck count = 211, expected = 211
+TEST 118: +4 cards
+starting hand count = 335, starting deck count = 480
+about to call effect
+effect called
+hand count = 338, expected = 338
+deck count = 476, expected = 476
+TEST 119: +4 cards
+starting hand count = 393, starting deck count = 237
+about to call effect
+effect called
+hand count = 396, expected = 396
+deck count = 233, expected = 233
+TEST 120: +4 cards
+starting hand count = 166, starting deck count = 236
+about to call effect
+effect called
+hand count = 169, expected = 169
+deck count = 232, expected = 232
+TEST 121: +4 cards
+starting hand count = 251, starting deck count = 198
+about to call effect
+effect called
+hand count = 254, expected = 254
+deck count = 194, expected = 194
+TEST 122: +4 cards
+starting hand count = 186, starting deck count = 457
+about to call effect
+effect called
+hand count = 189, expected = 189
+deck count = 453, expected = 453
+TEST 123: +4 cards
+starting hand count = 253, starting deck count = 330
+about to call effect
+effect called
+hand count = 256, expected = 256
+deck count = 326, expected = 326
+TEST 124: +4 cards
+starting hand count = 228, starting deck count = 374
+about to call effect
+effect called
+hand count = 231, expected = 231
+deck count = 370, expected = 370
+TEST 125: +4 cards
+starting hand count = 129, starting deck count = 240
+about to call effect
+effect called
+hand count = 132, expected = 132
+deck count = 236, expected = 236
+TEST 126: +4 cards
+starting hand count = 293, starting deck count = 234
+about to call effect
+effect called
+hand count = 296, expected = 296
+deck count = 230, expected = 230
+TEST 127: +4 cards
+starting hand count = 238, starting deck count = 79
+about to call effect
+effect called
+hand count = 241, expected = 241
+deck count = 75, expected = 75
+TEST 128: +4 cards
+starting hand count = 118, starting deck count = 271
+about to call effect
+effect called
+hand count = 121, expected = 121
+deck count = 267, expected = 267
+TEST 129: +4 cards
+starting hand count = 312, starting deck count = 127
+about to call effect
+effect called
+hand count = 315, expected = 315
+deck count = 123, expected = 123
+TEST 130: +4 cards
+starting hand count = 97, starting deck count = 5
+about to call effect
+effect called
+hand count = 100, expected = 100
+deck count = 1, expected = 1
+TEST 131: +4 cards
+starting hand count = 39, starting deck count = 239
+about to call effect
+effect called
+hand count = 42, expected = 42
+deck count = 235, expected = 235
+TEST 132: +4 cards
+starting hand count = 328, starting deck count = 427
+about to call effect
+effect called
+hand count = 331, expected = 331
+deck count = 423, expected = 423
+TEST 133: +4 cards
+starting hand count = 62, starting deck count = 212
+about to call effect
+effect called
+hand count = 65, expected = 65
+deck count = 208, expected = 208
+TEST 134: +4 cards
+starting hand count = 67, starting deck count = 413
+about to call effect
+effect called
+hand count = 70, expected = 70
+deck count = 409, expected = 409
+TEST 135: +4 cards
+starting hand count = 373, starting deck count = 387
+about to call effect
+effect called
+hand count = 376, expected = 376
+deck count = 383, expected = 383
+TEST 136: +4 cards
+starting hand count = 403, starting deck count = 33
+about to call effect
+effect called
+hand count = 406, expected = 406
+deck count = 29, expected = 29
+TEST 137: +4 cards
+starting hand count = 22, starting deck count = 265
+about to call effect
+effect called
+hand count = 25, expected = 25
+deck count = 261, expected = 261
+TEST 138: +4 cards
+starting hand count = 42, starting deck count = 139
+about to call effect
+effect called
+hand count = 45, expected = 45
+deck count = 135, expected = 135
+TEST 139: +4 cards
+starting hand count = 493, starting deck count = 351
+about to call effect
+effect called
+hand count = 496, expected = 496
+deck count = 347, expected = 347
+TEST 140: +4 cards
+starting hand count = 84, starting deck count = 497
+about to call effect
+effect called
+hand count = 87, expected = 87
+deck count = 493, expected = 493
+TEST 141: +4 cards
+starting hand count = 270, starting deck count = 200
+about to call effect
+effect called
+hand count = 273, expected = 273
+deck count = 196, expected = 196
+TEST 142: +4 cards
+starting hand count = 84, starting deck count = 245
+about to call effect
+effect called
+hand count = 87, expected = 87
+deck count = 241, expected = 241
+TEST 143: +4 cards
+starting hand count = 115, starting deck count = 359
+about to call effect
+effect called
+hand count = 118, expected = 118
+deck count = 355, expected = 355
+TEST 144: +4 cards
+starting hand count = 152, starting deck count = 113
+about to call effect
+effect called
+hand count = 155, expected = 155
+deck count = 109, expected = 109
+TEST 145: +4 cards
+starting hand count = 171, starting deck count = 183
+about to call effect
+effect called
+hand count = 174, expected = 174
+deck count = 179, expected = 179
+TEST 146: +4 cards
+starting hand count = 345, starting deck count = 412
+about to call effect
+effect called
+hand count = 348, expected = 348
+deck count = 408, expected = 408
+TEST 147: +4 cards
+starting hand count = 416, starting deck count = 448
+about to call effect
+effect called
+hand count = 419, expected = 419
+deck count = 444, expected = 444
+TEST 148: +4 cards
+starting hand count = 75, starting deck count = 224
+about to call effect
+effect called
+hand count = 78, expected = 78
+deck count = 220, expected = 220
+TEST 149: +4 cards
+starting hand count = 54, starting deck count = 176
+about to call effect
+effect called
+hand count = 57, expected = 57
+deck count = 172, expected = 172
+TEST 150: +4 cards
+starting hand count = 291, starting deck count = 297
+about to call effect
+effect called
+hand count = 294, expected = 294
+deck count = 293, expected = 293
+TEST 151: +4 cards
+starting hand count = 457, starting deck count = 480
+about to call effect
+effect called
+hand count = 460, expected = 460
+deck count = 476, expected = 476
+TEST 152: +4 cards
+starting hand count = 159, starting deck count = 430
+about to call effect
+effect called
+hand count = 162, expected = 162
+deck count = 426, expected = 426
+TEST 153: +4 cards
+starting hand count = 244, starting deck count = 231
+about to call effect
+effect called
+hand count = 247, expected = 247
+deck count = 227, expected = 227
+TEST 154: +4 cards
+starting hand count = 465, starting deck count = 15
+about to call effect
+effect called
+hand count = 468, expected = 468
+deck count = 11, expected = 11
+TEST 155: +4 cards
+starting hand count = 248, starting deck count = 327
+about to call effect
+effect called
+hand count = 251, expected = 251
+deck count = 323, expected = 323
+TEST 156: +4 cards
+starting hand count = 314, starting deck count = 422
+about to call effect
+effect called
+hand count = 317, expected = 317
+deck count = 418, expected = 418
+TEST 157: +4 cards
+starting hand count = 208, starting deck count = 419
+about to call effect
+effect called
+hand count = 211, expected = 211
+deck count = 415, expected = 415
+TEST 158: +4 cards
+starting hand count = 474, starting deck count = 69
+about to call effect
+effect called
+hand count = 477, expected = 477
+deck count = 65, expected = 65
+TEST 159: +4 cards
+starting hand count = 77, starting deck count = 102
+about to call effect
+effect called
+hand count = 80, expected = 80
+deck count = 98, expected = 98
+TEST 160: +4 cards
+starting hand count = 470, starting deck count = 390
+about to call effect
+effect called
+hand count = 473, expected = 473
+deck count = 386, expected = 386
+TEST 161: +4 cards
+starting hand count = 215, starting deck count = 432
+about to call effect
+effect called
+hand count = 218, expected = 218
+deck count = 428, expected = 428
+TEST 162: +4 cards
+starting hand count = 283, starting deck count = 232
+about to call effect
+effect called
+hand count = 286, expected = 286
+deck count = 228, expected = 228
+TEST 163: +4 cards
+starting hand count = 67, starting deck count = 306
+about to call effect
+effect called
+hand count = 70, expected = 70
+deck count = 302, expected = 302
+TEST 164: +4 cards
+starting hand count = 489, starting deck count = 365
+about to call effect
+effect called
+hand count = 492, expected = 492
+deck count = 361, expected = 361
+TEST 165: +4 cards
+starting hand count = 209, starting deck count = 169
+about to call effect
+effect called
+hand count = 212, expected = 212
+deck count = 165, expected = 165
+TEST 166: +4 cards
+starting hand count = 170, starting deck count = 233
+about to call effect
+effect called
+hand count = 173, expected = 173
+deck count = 229, expected = 229
+TEST 167: +4 cards
+starting hand count = 9, starting deck count = 248
+about to call effect
+effect called
+hand count = 12, expected = 12
+deck count = 244, expected = 244
+TEST 168: +4 cards
+starting hand count = 73, starting deck count = 155
+about to call effect
+effect called
+hand count = 76, expected = 76
+deck count = 151, expected = 151
+TEST 169: +4 cards
+starting hand count = 15, starting deck count = 293
+about to call effect
+effect called
+hand count = 18, expected = 18
+deck count = 289, expected = 289
+TEST 170: +4 cards
+starting hand count = 37, starting deck count = 489
+about to call effect
+effect called
+hand count = 40, expected = 40
+deck count = 485, expected = 485
+TEST 171: +4 cards
+starting hand count = 67, starting deck count = 138
+about to call effect
+effect called
+hand count = 70, expected = 70
+deck count = 134, expected = 134
+TEST 172: +4 cards
+starting hand count = 319, starting deck count = 468
+about to call effect
+effect called
+hand count = 322, expected = 322
+deck count = 464, expected = 464
+TEST 173: +4 cards
+starting hand count = 165, starting deck count = 167
+about to call effect
+effect called
+hand count = 168, expected = 168
+deck count = 163, expected = 163
+TEST 174: +4 cards
+starting hand count = 89, starting deck count = 53
+about to call effect
+effect called
+hand count = 92, expected = 92
+deck count = 49, expected = 49
+TEST 175: +4 cards
+starting hand count = 230, starting deck count = 475
+about to call effect
+effect called
+hand count = 233, expected = 233
+deck count = 471, expected = 471
+TEST 176: +4 cards
+starting hand count = 357, starting deck count = 361
+about to call effect
+effect called
+hand count = 360, expected = 360
+deck count = 357, expected = 357
+TEST 177: +4 cards
+starting hand count = 103, starting deck count = 193
+about to call effect
+effect called
+hand count = 106, expected = 106
+deck count = 189, expected = 189
+TEST 178: +4 cards
+starting hand count = 37, starting deck count = 381
+about to call effect
+effect called
+hand count = 40, expected = 40
+deck count = 377, expected = 377
+TEST 179: +4 cards
+starting hand count = 303, starting deck count = 64
+about to call effect
+effect called
+hand count = 306, expected = 306
+deck count = 60, expected = 60
+TEST 180: +4 cards
+starting hand count = 134, starting deck count = 276
+about to call effect
+effect called
+hand count = 137, expected = 137
+deck count = 272, expected = 272
+TEST 181: +4 cards
+starting hand count = 219, starting deck count = 404
+about to call effect
+effect called
+hand count = 222, expected = 222
+deck count = 400, expected = 400
+TEST 182: +4 cards
+starting hand count = 384, starting deck count = 473
+about to call effect
+effect called
+hand count = 387, expected = 387
+deck count = 469, expected = 469
+TEST 183: +4 cards
+starting hand count = 262, starting deck count = 367
+about to call effect
+effect called
+hand count = 265, expected = 265
+deck count = 363, expected = 363
+TEST 184: +4 cards
+starting hand count = 114, starting deck count = 22
+about to call effect
+effect called
+hand count = 117, expected = 117
+deck count = 18, expected = 18
+TEST 185: +4 cards
+starting hand count = 481, starting deck count = 439
+about to call effect
+effect called
+hand count = 484, expected = 484
+deck count = 435, expected = 435
+TEST 186: +4 cards
+starting hand count = 144, starting deck count = 86
+about to call effect
+effect called
+hand count = 147, expected = 147
+deck count = 82, expected = 82
+TEST 187: +4 cards
+starting hand count = 265, starting deck count = 211
+about to call effect
+effect called
+hand count = 268, expected = 268
+deck count = 207, expected = 207
+TEST 188: +4 cards
+starting hand count = 211, starting deck count = 266
+about to call effect
+effect called
+hand count = 214, expected = 214
+deck count = 262, expected = 262
+TEST 189: +4 cards
+starting hand count = 412, starting deck count = 75
+about to call effect
+effect called
+hand count = 415, expected = 415
+deck count = 71, expected = 71
+TEST 190: +4 cards
+starting hand count = 83, starting deck count = 458
+about to call effect
+effect called
+hand count = 86, expected = 86
+deck count = 454, expected = 454
+TEST 191: +4 cards
+starting hand count = 253, starting deck count = 311
+about to call effect
+effect called
+hand count = 256, expected = 256
+deck count = 307, expected = 307
+TEST 192: +4 cards
+starting hand count = 460, starting deck count = 321
+about to call effect
+effect called
+hand count = 463, expected = 463
+deck count = 317, expected = 317
+TEST 193: +4 cards
+starting hand count = 184, starting deck count = 457
+about to call effect
+effect called
+hand count = 187, expected = 187
+deck count = 453, expected = 453
+TEST 194: +4 cards
+starting hand count = 345, starting deck count = 261
+about to call effect
+effect called
+hand count = 348, expected = 348
+deck count = 257, expected = 257
+TEST 195: +4 cards
+starting hand count = 304, starting deck count = 145
+about to call effect
+effect called
+hand count = 307, expected = 307
+deck count = 141, expected = 141
+TEST 196: +4 cards
+starting hand count = 392, starting deck count = 224
+about to call effect
+effect called
+hand count = 395, expected = 395
+deck count = 220, expected = 220
+TEST 197: +4 cards
+starting hand count = 462, starting deck count = 27
+about to call effect
+effect called
+hand count = 465, expected = 465
+deck count = 23, expected = 23
+TEST 198: +4 cards
+starting hand count = 469, starting deck count = 282
+about to call effect
+effect called
+hand count = 472, expected = 472
+deck count = 278, expected = 278
+TEST 199: +4 cards
+starting hand count = 429, starting deck count = 161
+about to call effect
+effect called
+hand count = 432, expected = 432
+deck count = 157, expected = 157
+TEST 200: +4 cards
+starting hand count = 66, starting deck count = 9
+about to call effect
+effect called
+hand count = 69, expected = 69
+deck count = 5, expected = 5
+TEST 201: +4 cards
+starting hand count = 281, starting deck count = 373
+about to call effect
+effect called
+hand count = 284, expected = 284
+deck count = 369, expected = 369
+TEST 202: +4 cards
+starting hand count = 59, starting deck count = 322
+about to call effect
+effect called
+hand count = 62, expected = 62
+deck count = 318, expected = 318
+TEST 203: +4 cards
+starting hand count = 179, starting deck count = 466
+about to call effect
+effect called
+hand count = 182, expected = 182
+deck count = 462, expected = 462
+TEST 204: +4 cards
+starting hand count = 322, starting deck count = 459
+about to call effect
+effect called
+hand count = 325, expected = 325
+deck count = 455, expected = 455
+TEST 205: +4 cards
+starting hand count = 419, starting deck count = 382
+about to call effect
+effect called
+hand count = 422, expected = 422
+deck count = 378, expected = 378
+TEST 206: +4 cards
+starting hand count = 412, starting deck count = 158
+about to call effect
+effect called
+hand count = 415, expected = 415
+deck count = 154, expected = 154
+TEST 207: +4 cards
+starting hand count = 400, starting deck count = 133
+about to call effect
+effect called
+hand count = 403, expected = 403
+deck count = 129, expected = 129
+TEST 208: +4 cards
+starting hand count = 397, starting deck count = 358
+about to call effect
+effect called
+hand count = 400, expected = 400
+deck count = 354, expected = 354
+TEST 209: +4 cards
+starting hand count = 204, starting deck count = 160
+about to call effect
+effect called
+hand count = 207, expected = 207
+deck count = 156, expected = 156
+TEST 210: +4 cards
+starting hand count = 88, starting deck count = 395
+about to call effect
+effect called
+hand count = 91, expected = 91
+deck count = 391, expected = 391
+TEST 211: +4 cards
+starting hand count = 415, starting deck count = 478
+about to call effect
+effect called
+hand count = 418, expected = 418
+deck count = 474, expected = 474
+TEST 212: +4 cards
+starting hand count = 316, starting deck count = 376
+about to call effect
+effect called
+hand count = 319, expected = 319
+deck count = 372, expected = 372
+TEST 213: +4 cards
+starting hand count = 187, starting deck count = 126
+about to call effect
+effect called
+hand count = 190, expected = 190
+deck count = 122, expected = 122
+TEST 214: +4 cards
+starting hand count = 232, starting deck count = 91
+about to call effect
+effect called
+hand count = 235, expected = 235
+deck count = 87, expected = 87
+TEST 215: +4 cards
+starting hand count = 179, starting deck count = 6
+about to call effect
+effect called
+hand count = 182, expected = 182
+deck count = 2, expected = 2
+TEST 216: +4 cards
+starting hand count = 265, starting deck count = 397
+about to call effect
+effect called
+hand count = 268, expected = 268
+deck count = 393, expected = 393
+TEST 217: +4 cards
+starting hand count = 412, starting deck count = 50
+about to call effect
+effect called
+hand count = 415, expected = 415
+deck count = 46, expected = 46
+TEST 218: +4 cards
+starting hand count = 363, starting deck count = 39
+about to call effect
+effect called
+hand count = 366, expected = 366
+deck count = 35, expected = 35
+TEST 219: +4 cards
+starting hand count = 474, starting deck count = 51
+about to call effect
+effect called
+hand count = 477, expected = 477
+deck count = 47, expected = 47
+TEST 220: +4 cards
+starting hand count = 499, starting deck count = 411
+about to call effect
+effect called
+hand count = 502, expected = 502
+deck count = 407, expected = 407
+TEST 221: +4 cards
+starting hand count = 264, starting deck count = 126
+about to call effect
+effect called
+hand count = 267, expected = 267
+deck count = 122, expected = 122
+TEST 222: +4 cards
+starting hand count = 93, starting deck count = 482
+about to call effect
+effect called
+hand count = 96, expected = 96
+deck count = 478, expected = 478
+TEST 223: +4 cards
+starting hand count = 259, starting deck count = 45
+about to call effect
+effect called
+hand count = 262, expected = 262
+deck count = 41, expected = 41
+TEST 224: +4 cards
+starting hand count = 469, starting deck count = 77
+about to call effect
+effect called
+hand count = 472, expected = 472
+deck count = 73, expected = 73
+TEST 225: +4 cards
+starting hand count = 307, starting deck count = 112
+about to call effect
+effect called
+hand count = 310, expected = 310
+deck count = 108, expected = 108
+TEST 226: +4 cards
+starting hand count = 443, starting deck count = 366
+about to call effect
+effect called
+hand count = 446, expected = 446
+deck count = 362, expected = 362
+TEST 227: +4 cards
+starting hand count = 499, starting deck count = 471
+about to call effect
+effect called
+hand count = 502, expected = 502
+deck count = 467, expected = 467
+TEST 228: +4 cards
+starting hand count = 178, starting deck count = 190
+about to call effect
+effect called
+hand count = 181, expected = 181
+deck count = 186, expected = 186
+TEST 229: +4 cards
+starting hand count = 361, starting deck count = 126
+about to call effect
+effect called
+hand count = 364, expected = 364
+deck count = 122, expected = 122
+TEST 230: +4 cards
+starting hand count = 388, starting deck count = 319
+about to call effect
+effect called
+hand count = 391, expected = 391
+deck count = 315, expected = 315
+TEST 231: +4 cards
+starting hand count = 158, starting deck count = 496
+about to call effect
+effect called
+hand count = 161, expected = 161
+deck count = 492, expected = 492
+TEST 232: +4 cards
+starting hand count = 415, starting deck count = 376
+about to call effect
+effect called
+hand count = 418, expected = 418
+deck count = 372, expected = 372
+TEST 233: +4 cards
+starting hand count = 402, starting deck count = 442
+about to call effect
+effect called
+hand count = 405, expected = 405
+deck count = 438, expected = 438
+TEST 234: +4 cards
+starting hand count = 98, starting deck count = 203
+about to call effect
+effect called
+hand count = 101, expected = 101
+deck count = 199, expected = 199
+TEST 235: +4 cards
+starting hand count = 89, starting deck count = 209
+about to call effect
+effect called
+hand count = 92, expected = 92
+deck count = 205, expected = 205
+TEST 236: +4 cards
+starting hand count = 303, starting deck count = 93
+about to call effect
+effect called
+hand count = 306, expected = 306
+deck count = 89, expected = 89
+TEST 237: +4 cards
+starting hand count = 30, starting deck count = 355
+about to call effect
+effect called
+hand count = 33, expected = 33
+deck count = 351, expected = 351
+TEST 238: +4 cards
+starting hand count = 102, starting deck count = 129
+about to call effect
+effect called
+hand count = 105, expected = 105
+deck count = 125, expected = 125
+TEST 239: +4 cards
+starting hand count = 252, starting deck count = 30
+about to call effect
+effect called
+hand count = 255, expected = 255
+deck count = 26, expected = 26
+TEST 240: +4 cards
+starting hand count = 472, starting deck count = 448
+about to call effect
+effect called
+hand count = 475, expected = 475
+deck count = 444, expected = 444
+TEST 241: +4 cards
+starting hand count = 161, starting deck count = 359
+about to call effect
+effect called
+hand count = 164, expected = 164
+deck count = 355, expected = 355
+TEST 242: +4 cards
+starting hand count = 222, starting deck count = 324
+about to call effect
+effect called
+hand count = 225, expected = 225
+deck count = 320, expected = 320
+TEST 243: +4 cards
+starting hand count = 451, starting deck count = 256
+about to call effect
+effect called
+hand count = 454, expected = 454
+deck count = 252, expected = 252
+TEST 244: +4 cards
+starting hand count = 414, starting deck count = 469
+about to call effect
+effect called
+hand count = 417, expected = 417
+deck count = 465, expected = 465
+TEST 245: +4 cards
+starting hand count = 440, starting deck count = 375
+about to call effect
+effect called
+hand count = 443, expected = 443
+deck count = 371, expected = 371
+TEST 246: +4 cards
+starting hand count = 165, starting deck count = 443
+about to call effect
+effect called
+hand count = 168, expected = 168
+deck count = 439, expected = 439
+TEST 247: +4 cards
+starting hand count = 339, starting deck count = 260
+about to call effect
+effect called
+hand count = 342, expected = 342
+deck count = 256, expected = 256
+TEST 248: +4 cards
+starting hand count = 73, starting deck count = 52
+about to call effect
+effect called
+hand count = 76, expected = 76
+deck count = 48, expected = 48
+TEST 249: +4 cards
+starting hand count = 420, starting deck count = 287
+about to call effect
+effect called
+hand count = 423, expected = 423
+deck count = 283, expected = 283
+TEST 250: +4 cards
+starting hand count = 153, starting deck count = 395
+about to call effect
+effect called
+hand count = 156, expected = 156
+deck count = 391, expected = 391
+TEST 251: +4 cards
+starting hand count = 234, starting deck count = 107
+about to call effect
+effect called
+hand count = 237, expected = 237
+deck count = 103, expected = 103
+TEST 252: +4 cards
+starting hand count = 154, starting deck count = 496
+about to call effect
+effect called
+hand count = 157, expected = 157
+deck count = 492, expected = 492
+TEST 253: +4 cards
+starting hand count = 407, starting deck count = 119
+about to call effect
+effect called
+hand count = 410, expected = 410
+deck count = 115, expected = 115
+TEST 254: +4 cards
+starting hand count = 416, starting deck count = 223
+about to call effect
+effect called
+hand count = 419, expected = 419
+deck count = 219, expected = 219
+TEST 255: +4 cards
+starting hand count = 132, starting deck count = 149
+about to call effect
+effect called
+hand count = 135, expected = 135
+deck count = 145, expected = 145
+TEST 256: +4 cards
+starting hand count = 103, starting deck count = 83
+about to call effect
+effect called
+hand count = 106, expected = 106
+deck count = 79, expected = 79
+TEST 257: +4 cards
+starting hand count = 468, starting deck count = 285
+about to call effect
+effect called
+hand count = 471, expected = 471
+deck count = 281, expected = 281
+TEST 258: +4 cards
+starting hand count = 370, starting deck count = 415
+about to call effect
+effect called
+hand count = 373, expected = 373
+deck count = 411, expected = 411
+TEST 259: +4 cards
+starting hand count = 30, starting deck count = 183
+about to call effect
+effect called
+hand count = 33, expected = 33
+deck count = 179, expected = 179
+TEST 260: +4 cards
+starting hand count = 10, starting deck count = 131
+about to call effect
+effect called
+hand count = 13, expected = 13
+deck count = 127, expected = 127
+TEST 261: +4 cards
+starting hand count = 334, starting deck count = 109
+about to call effect
+effect called
+hand count = 337, expected = 337
+deck count = 105, expected = 105
+TEST 262: +4 cards
+starting hand count = 473, starting deck count = 390
+about to call effect
+effect called
+hand count = 476, expected = 476
+deck count = 386, expected = 386
+TEST 263: +4 cards
+starting hand count = 427, starting deck count = 191
+about to call effect
+effect called
+hand count = 430, expected = 430
+deck count = 187, expected = 187
+TEST 264: +4 cards
+starting hand count = 141, starting deck count = 212
+about to call effect
+effect called
+hand count = 144, expected = 144
+deck count = 208, expected = 208
+TEST 265: +4 cards
+starting hand count = 266, starting deck count = 44
+about to call effect
+effect called
+hand count = 269, expected = 269
+deck count = 40, expected = 40
+TEST 266: +4 cards
+starting hand count = 305, starting deck count = 371
+about to call effect
+effect called
+hand count = 308, expected = 308
+deck count = 367, expected = 367
+TEST 267: +4 cards
+starting hand count = 300, starting deck count = 227
+about to call effect
+effect called
+hand count = 303, expected = 303
+deck count = 223, expected = 223
+TEST 268: +4 cards
+starting hand count = 308, starting deck count = 357
+about to call effect
+effect called
+hand count = 311, expected = 311
+deck count = 353, expected = 353
+TEST 269: +4 cards
+starting hand count = 214, starting deck count = 113
+about to call effect
+effect called
+hand count = 217, expected = 217
+deck count = 109, expected = 109
+TEST 270: +4 cards
+starting hand count = 94, starting deck count = 227
+about to call effect
+effect called
+hand count = 97, expected = 97
+deck count = 223, expected = 223
+TEST 271: +4 cards
+starting hand count = 461, starting deck count = 248
+about to call effect
+effect called
+hand count = 464, expected = 464
+deck count = 244, expected = 244
+TEST 272: +4 cards
+starting hand count = 429, starting deck count = 319
+about to call effect
+effect called
+hand count = 432, expected = 432
+deck count = 315, expected = 315
+TEST 273: +4 cards
+starting hand count = 282, starting deck count = 494
+about to call effect
+effect called
+hand count = 285, expected = 285
+deck count = 490, expected = 490
+TEST 274: +4 cards
+starting hand count = 43, starting deck count = 34
+about to call effect
+effect called
+hand count = 46, expected = 46
+deck count = 30, expected = 30
+TEST 275: +4 cards
+starting hand count = 225, starting deck count = 19
+about to call effect
+effect called
+hand count = 228, expected = 228
+deck count = 15, expected = 15
+TEST 276: +4 cards
+starting hand count = 251, starting deck count = 266
+about to call effect
+effect called
+hand count = 254, expected = 254
+deck count = 262, expected = 262
+TEST 277: +4 cards
+starting hand count = 143, starting deck count = 102
+about to call effect
+effect called
+hand count = 146, expected = 146
+deck count = 98, expected = 98
+TEST 278: +4 cards
+starting hand count = 483, starting deck count = 89
+about to call effect
+effect called
+hand count = 486, expected = 486
+deck count = 85, expected = 85
+TEST 279: +4 cards
+starting hand count = 249, starting deck count = 66
+about to call effect
+effect called
+hand count = 252, expected = 252
+deck count = 62, expected = 62
+TEST 280: +4 cards
+starting hand count = 91, starting deck count = 421
+about to call effect
+effect called
+hand count = 94, expected = 94
+deck count = 417, expected = 417
+TEST 281: +4 cards
+starting hand count = 65, starting deck count = 397
+about to call effect
+effect called
+hand count = 68, expected = 68
+deck count = 393, expected = 393
+TEST 282: +4 cards
+starting hand count = 417, starting deck count = 148
+about to call effect
+effect called
+hand count = 420, expected = 420
+deck count = 144, expected = 144
+TEST 283: +4 cards
+starting hand count = 302, starting deck count = 186
+about to call effect
+effect called
+hand count = 305, expected = 305
+deck count = 182, expected = 182
+TEST 284: +4 cards
+starting hand count = 49, starting deck count = 390
+about to call effect
+effect called
+hand count = 52, expected = 52
+deck count = 386, expected = 386
+TEST 285: +4 cards
+starting hand count = 12, starting deck count = 490
+about to call effect
+effect called
+hand count = 15, expected = 15
+deck count = 486, expected = 486
+TEST 286: +4 cards
+starting hand count = 191, starting deck count = 397
+about to call effect
+effect called
+hand count = 194, expected = 194
+deck count = 393, expected = 393
+TEST 287: +4 cards
+starting hand count = 91, starting deck count = 317
+about to call effect
+effect called
+hand count = 94, expected = 94
+deck count = 313, expected = 313
+TEST 288: +4 cards
+starting hand count = 321, starting deck count = 278
+about to call effect
+effect called
+hand count = 324, expected = 324
+deck count = 274, expected = 274
+TEST 289: +4 cards
+starting hand count = 492, starting deck count = 173
+about to call effect
+effect called
+hand count = 495, expected = 495
+deck count = 169, expected = 169
+TEST 290: +4 cards
+starting hand count = 226, starting deck count = 376
+about to call effect
+effect called
+hand count = 229, expected = 229
+deck count = 372, expected = 372
+TEST 291: +4 cards
+starting hand count = 165, starting deck count = 322
+about to call effect
+effect called
+hand count = 168, expected = 168
+deck count = 318, expected = 318
+TEST 292: +4 cards
+starting hand count = 152, starting deck count = 394
+about to call effect
+effect called
+hand count = 155, expected = 155
+deck count = 390, expected = 390
+TEST 293: +4 cards
+starting hand count = 212, starting deck count = 130
+about to call effect
+effect called
+hand count = 215, expected = 215
+deck count = 126, expected = 126
+TEST 294: +4 cards
+starting hand count = 440, starting deck count = 286
+about to call effect
+effect called
+hand count = 443, expected = 443
+deck count = 282, expected = 282
+TEST 295: +4 cards
+starting hand count = 11, starting deck count = 386
+about to call effect
+effect called
+hand count = 14, expected = 14
+deck count = 382, expected = 382
+TEST 296: +4 cards
+starting hand count = 489, starting deck count = 131
+about to call effect
+effect called
+hand count = 492, expected = 492
+deck count = 127, expected = 127
+TEST 297: +4 cards
+starting hand count = 431, starting deck count = 454
+about to call effect
+effect called
+hand count = 434, expected = 434
+deck count = 450, expected = 450
+TEST 298: +4 cards
+starting hand count = 372, starting deck count = 420
+about to call effect
+effect called
+hand count = 375, expected = 375
+deck count = 416, expected = 416
+TEST 299: +4 cards
+starting hand count = 146, starting deck count = 232
+about to call effect
+effect called
+hand count = 149, expected = 149
+deck count = 228, expected = 228
+TEST 300: +4 cards
+starting hand count = 77, starting deck count = 285
+about to call effect
+effect called
+hand count = 80, expected = 80
+deck count = 281, expected = 281
+TEST 301: +4 cards
+starting hand count = 241, starting deck count = 101
+about to call effect
+effect called
+hand count = 244, expected = 244
+deck count = 97, expected = 97
+TEST 302: +4 cards
+starting hand count = 498, starting deck count = 121
+about to call effect
+effect called
+hand count = 501, expected = 501
+deck count = 117, expected = 117
+TEST 303: +4 cards
+starting hand count = 173, starting deck count = 42
+about to call effect
+effect called
+hand count = 176, expected = 176
+deck count = 38, expected = 38
+TEST 304: +4 cards
+starting hand count = 455, starting deck count = 71
+about to call effect
+effect called
+hand count = 458, expected = 458
+deck count = 67, expected = 67
+TEST 305: +4 cards
+starting hand count = 456, starting deck count = 147
+about to call effect
+effect called
+hand count = 459, expected = 459
+deck count = 143, expected = 143
+TEST 306: +4 cards
+starting hand count = 231, starting deck count = 96
+about to call effect
+effect called
+hand count = 234, expected = 234
+deck count = 92, expected = 92
+TEST 307: +4 cards
+starting hand count = 410, starting deck count = 382
+about to call effect
+effect called
+hand count = 413, expected = 413
+deck count = 378, expected = 378
+TEST 308: +4 cards
+starting hand count = 85, starting deck count = 216
+about to call effect
+effect called
+hand count = 88, expected = 88
+deck count = 212, expected = 212
+TEST 309: +4 cards
+starting hand count = 495, starting deck count = 438
+about to call effect
+effect called
+hand count = 498, expected = 498
+deck count = 434, expected = 434
+TEST 310: +4 cards
+starting hand count = 15, starting deck count = 309
+about to call effect
+effect called
+hand count = 18, expected = 18
+deck count = 305, expected = 305
+TEST 311: +4 cards
+starting hand count = 428, starting deck count = 354
+about to call effect
+effect called
+hand count = 431, expected = 431
+deck count = 350, expected = 350
+TEST 312: +4 cards
+starting hand count = 60, starting deck count = 354
+about to call effect
+effect called
+hand count = 63, expected = 63
+deck count = 350, expected = 350
+TEST 313: +4 cards
+starting hand count = 242, starting deck count = 156
+about to call effect
+effect called
+hand count = 245, expected = 245
+deck count = 152, expected = 152
+TEST 314: +4 cards
+starting hand count = 145, starting deck count = 390
+about to call effect
+effect called
+hand count = 148, expected = 148
+deck count = 386, expected = 386
+TEST 315: +4 cards
+starting hand count = 14, starting deck count = 328
+about to call effect
+effect called
+hand count = 17, expected = 17
+deck count = 324, expected = 324
+TEST 316: +4 cards
+starting hand count = 63, starting deck count = 26
+about to call effect
+effect called
+hand count = 66, expected = 66
+deck count = 22, expected = 22
+TEST 317: +4 cards
+starting hand count = 313, starting deck count = 159
+about to call effect
+effect called
+hand count = 316, expected = 316
+deck count = 155, expected = 155
+TEST 318: +4 cards
+starting hand count = 193, starting deck count = 406
+about to call effect
+effect called
+hand count = 196, expected = 196
+deck count = 402, expected = 402
+TEST 319: +4 cards
+starting hand count = 218, starting deck count = 159
+about to call effect
+effect called
+hand count = 221, expected = 221
+deck count = 155, expected = 155
+TEST 320: +4 cards
+starting hand count = 96, starting deck count = 223
+about to call effect
+effect called
+hand count = 99, expected = 99
+deck count = 219, expected = 219
+TEST 321: +4 cards
+starting hand count = 107, starting deck count = 347
+about to call effect
+effect called
+hand count = 110, expected = 110
+deck count = 343, expected = 343
+TEST 322: +4 cards
+starting hand count = 195, starting deck count = 386
+about to call effect
+effect called
+hand count = 198, expected = 198
+deck count = 382, expected = 382
+TEST 323: +4 cards
+starting hand count = 441, starting deck count = 136
+about to call effect
+effect called
+hand count = 444, expected = 444
+deck count = 132, expected = 132
+TEST 324: +4 cards
+starting hand count = 458, starting deck count = 243
+about to call effect
+effect called
+hand count = 461, expected = 461
+deck count = 239, expected = 239
+TEST 325: +4 cards
+starting hand count = 306, starting deck count = 27
+about to call effect
+effect called
+hand count = 309, expected = 309
+deck count = 23, expected = 23
+TEST 326: +4 cards
+starting hand count = 225, starting deck count = 276
+about to call effect
+effect called
+hand count = 228, expected = 228
+deck count = 272, expected = 272
+TEST 327: +4 cards
+starting hand count = 3, starting deck count = 36
+about to call effect
+effect called
+hand count = 6, expected = 6
+deck count = 32, expected = 32
+TEST 328: +4 cards
+starting hand count = 94, starting deck count = 119
+about to call effect
+effect called
+hand count = 97, expected = 97
+deck count = 115, expected = 115
+TEST 329: +4 cards
+starting hand count = 121, starting deck count = 46
+about to call effect
+effect called
+hand count = 124, expected = 124
+deck count = 42, expected = 42
+TEST 330: +4 cards
+starting hand count = 0, starting deck count = 235
+about to call effect
+effect called
+hand count = 3, expected = 3
+deck count = 231, expected = 231
+TEST 331: +4 cards
+starting hand count = 195, starting deck count = 154
+about to call effect
+effect called
+hand count = 198, expected = 198
+deck count = 150, expected = 150
+TEST 332: +4 cards
+starting hand count = 259, starting deck count = 132
+about to call effect
+effect called
+hand count = 262, expected = 262
+deck count = 128, expected = 128
+TEST 333: +4 cards
+starting hand count = 450, starting deck count = 395
+about to call effect
+effect called
+hand count = 453, expected = 453
+deck count = 391, expected = 391
+TEST 334: +4 cards
+starting hand count = 170, starting deck count = 243
+about to call effect
+effect called
+hand count = 173, expected = 173
+deck count = 239, expected = 239
+TEST 335: +4 cards
+starting hand count = 173, starting deck count = 17
+about to call effect
+effect called
+hand count = 176, expected = 176
+deck count = 13, expected = 13
+TEST 336: +4 cards
+starting hand count = 266, starting deck count = 175
+about to call effect
+effect called
+hand count = 269, expected = 269
+deck count = 171, expected = 171
+TEST 337: +4 cards
+starting hand count = 468, starting deck count = 177
+about to call effect
+effect called
+hand count = 471, expected = 471
+deck count = 173, expected = 173
+TEST 338: +4 cards
+starting hand count = 193, starting deck count = 321
+about to call effect
+effect called
+hand count = 196, expected = 196
+deck count = 317, expected = 317
+TEST 339: +4 cards
+starting hand count = 135, starting deck count = 463
+about to call effect
+effect called
+hand count = 138, expected = 138
+deck count = 459, expected = 459
+TEST 340: +4 cards
+starting hand count = 313, starting deck count = 385
+about to call effect
+effect called
+hand count = 316, expected = 316
+deck count = 381, expected = 381
+TEST 341: +4 cards
+starting hand count = 49, starting deck count = 489
+about to call effect
+effect called
+hand count = 52, expected = 52
+deck count = 485, expected = 485
+TEST 342: +4 cards
+starting hand count = 133, starting deck count = 342
+about to call effect
+effect called
+hand count = 136, expected = 136
+deck count = 338, expected = 338
+TEST 343: +4 cards
+starting hand count = 13, starting deck count = 305
+about to call effect
+effect called
+hand count = 16, expected = 16
+deck count = 301, expected = 301
+TEST 344: +4 cards
+starting hand count = 293, starting deck count = 13
+about to call effect
+effect called
+hand count = 296, expected = 296
+deck count = 9, expected = 9
+TEST 345: +4 cards
+starting hand count = 313, starting deck count = 39
+about to call effect
+effect called
+hand count = 316, expected = 316
+deck count = 35, expected = 35
+TEST 346: +4 cards
+starting hand count = 445, starting deck count = 493
+about to call effect
+effect called
+hand count = 448, expected = 448
+deck count = 489, expected = 489
+TEST 347: +4 cards
+starting hand count = 201, starting deck count = 36
+about to call effect
+effect called
+hand count = 204, expected = 204
+deck count = 32, expected = 32
+TEST 348: +4 cards
+starting hand count = 270, starting deck count = 243
+about to call effect
+effect called
+hand count = 273, expected = 273
+deck count = 239, expected = 239
+TEST 349: +4 cards
+starting hand count = 467, starting deck count = 347
+about to call effect
+effect called
+hand count = 470, expected = 470
+deck count = 343, expected = 343
+TEST 350: +4 cards
+starting hand count = 170, starting deck count = 234
+about to call effect
+effect called
+hand count = 173, expected = 173
+deck count = 230, expected = 230
+TEST 351: +4 cards
+starting hand count = 40, starting deck count = 40
+about to call effect
+effect called
+hand count = 43, expected = 43
+deck count = 36, expected = 36
+TEST 352: +4 cards
+starting hand count = 330, starting deck count = 180
+about to call effect
+effect called
+hand count = 333, expected = 333
+deck count = 176, expected = 176
+TEST 353: +4 cards
+starting hand count = 402, starting deck count = 469
+about to call effect
+effect called
+hand count = 405, expected = 405
+deck count = 465, expected = 465
+TEST 354: +4 cards
+starting hand count = 45, starting deck count = 35
+about to call effect
+effect called
+hand count = 48, expected = 48
+deck count = 31, expected = 31
+TEST 355: +4 cards
+starting hand count = 385, starting deck count = 230
+about to call effect
+effect called
+hand count = 388, expected = 388
+deck count = 226, expected = 226
+TEST 356: +4 cards
+starting hand count = 288, starting deck count = 70
+about to call effect
+effect called
+hand count = 291, expected = 291
+deck count = 66, expected = 66
+TEST 357: +4 cards
+starting hand count = 196, starting deck count = 344
+about to call effect
+effect called
+hand count = 199, expected = 199
+deck count = 340, expected = 340
+TEST 358: +4 cards
+starting hand count = 107, starting deck count = 46
+about to call effect
+effect called
+hand count = 110, expected = 110
+deck count = 42, expected = 42
+TEST 359: +4 cards
+starting hand count = 233, starting deck count = 327
+about to call effect
+effect called
+hand count = 236, expected = 236
+deck count = 323, expected = 323
+TEST 360: +4 cards
+starting hand count = 308, starting deck count = 379
+about to call effect
+effect called
+hand count = 311, expected = 311
+deck count = 375, expected = 375
+TEST 361: +4 cards
+starting hand count = 386, starting deck count = 232
+about to call effect
+effect called
+hand count = 389, expected = 389
+deck count = 228, expected = 228
+TEST 362: +4 cards
+starting hand count = 380, starting deck count = 314
+about to call effect
+effect called
+hand count = 383, expected = 383
+deck count = 310, expected = 310
+TEST 363: +4 cards
+starting hand count = 182, starting deck count = 38
+about to call effect
+effect called
+hand count = 185, expected = 185
+deck count = 34, expected = 34
+TEST 364: +4 cards
+starting hand count = 10, starting deck count = 53
+about to call effect
+effect called
+hand count = 13, expected = 13
+deck count = 49, expected = 49
+TEST 365: +4 cards
+starting hand count = 97, starting deck count = 495
+about to call effect
+effect called
+hand count = 100, expected = 100
+deck count = 491, expected = 491
+TEST 366: +4 cards
+starting hand count = 285, starting deck count = 387
+about to call effect
+effect called
+hand count = 288, expected = 288
+deck count = 383, expected = 383
+TEST 367: +4 cards
+starting hand count = 43, starting deck count = 350
+about to call effect
+effect called
+hand count = 46, expected = 46
+deck count = 346, expected = 346
+TEST 368: +4 cards
+starting hand count = 278, starting deck count = 219
+about to call effect
+effect called
+hand count = 281, expected = 281
+deck count = 215, expected = 215
+TEST 369: +4 cards
+starting hand count = 497, starting deck count = 14
+about to call effect
+effect called
+hand count = 500, expected = 500
+deck count = 10, expected = 10
+TEST 370: +4 cards
+starting hand count = 258, starting deck count = 211
+about to call effect
+effect called
+hand count = 261, expected = 261
+deck count = 207, expected = 207
+TEST 371: +4 cards
+starting hand count = 219, starting deck count = 244
+about to call effect
+effect called
+hand count = 222, expected = 222
+deck count = 240, expected = 240
+TEST 372: +4 cards
+starting hand count = 219, starting deck count = 381
+about to call effect
+effect called
+hand count = 222, expected = 222
+deck count = 377, expected = 377
+TEST 373: +4 cards
+starting hand count = 246, starting deck count = 103
+about to call effect
+effect called
+hand count = 249, expected = 249
+deck count = 99, expected = 99
+TEST 374: +4 cards
+starting hand count = 474, starting deck count = 361
+about to call effect
+effect called
+hand count = 477, expected = 477
+deck count = 357, expected = 357
+TEST 375: +4 cards
+starting hand count = 125, starting deck count = 498
+about to call effect
+effect called
+hand count = 128, expected = 128
+deck count = 494, expected = 494
+TEST 376: +4 cards
+starting hand count = 297, starting deck count = 49
+about to call effect
+effect called
+hand count = 300, expected = 300
+deck count = 45, expected = 45
+TEST 377: +4 cards
+starting hand count = 324, starting deck count = 419
+about to call effect
+effect called
+hand count = 327, expected = 327
+deck count = 415, expected = 415
+TEST 378: +4 cards
+starting hand count = 303, starting deck count = 8
+about to call effect
+effect called
+hand count = 306, expected = 306
+deck count = 4, expected = 4
+TEST 379: +4 cards
+starting hand count = 308, starting deck count = 165
+about to call effect
+effect called
+hand count = 311, expected = 311
+deck count = 161, expected = 161
+TEST 380: +4 cards
+starting hand count = 137, starting deck count = 268
+about to call effect
+effect called
+hand count = 140, expected = 140
+deck count = 264, expected = 264
+TEST 381: +4 cards
+starting hand count = 372, starting deck count = 361
+about to call effect
+effect called
+hand count = 375, expected = 375
+deck count = 357, expected = 357
+TEST 382: +4 cards
+starting hand count = 166, starting deck count = 478
+about to call effect
+effect called
+hand count = 169, expected = 169
+deck count = 474, expected = 474
+TEST 383: +4 cards
+starting hand count = 227, starting deck count = 477
+about to call effect
+effect called
+hand count = 230, expected = 230
+deck count = 473, expected = 473
+TEST 384: +4 cards
+starting hand count = 11, starting deck count = 190
+about to call effect
+effect called
+hand count = 14, expected = 14
+deck count = 186, expected = 186
+TEST 385: +4 cards
+starting hand count = 356, starting deck count = 36
+about to call effect
+effect called
+hand count = 359, expected = 359
+deck count = 32, expected = 32
+TEST 386: +4 cards
+starting hand count = 100, starting deck count = 35
+about to call effect
+effect called
+hand count = 103, expected = 103
+deck count = 31, expected = 31
+TEST 387: +4 cards
+starting hand count = 283, starting deck count = 199
+about to call effect
+effect called
+hand count = 286, expected = 286
+deck count = 195, expected = 195
+TEST 388: +4 cards
+starting hand count = 279, starting deck count = 219
+about to call effect
+effect called
+hand count = 282, expected = 282
+deck count = 215, expected = 215
+TEST 389: +4 cards
+starting hand count = 33, starting deck count = 483
+about to call effect
+effect called
+hand count = 36, expected = 36
+deck count = 479, expected = 479
+TEST 390: +4 cards
+starting hand count = 246, starting deck count = 465
+about to call effect
+effect called
+hand count = 249, expected = 249
+deck count = 461, expected = 461
+TEST 391: +4 cards
+starting hand count = 78, starting deck count = 252
+about to call effect
+effect called
+hand count = 81, expected = 81
+deck count = 248, expected = 248
+TEST 392: +4 cards
+starting hand count = 225, starting deck count = 373
+about to call effect
+effect called
+hand count = 228, expected = 228
+deck count = 369, expected = 369
+TEST 393: +4 cards
+starting hand count = 90, starting deck count = 366
+about to call effect
+effect called
+hand count = 93, expected = 93
+deck count = 362, expected = 362
+TEST 394: +4 cards
+starting hand count = 437, starting deck count = 356
+about to call effect
+effect called
+hand count = 440, expected = 440
+deck count = 352, expected = 352
+TEST 395: +4 cards
+starting hand count = 85, starting deck count = 42
+about to call effect
+effect called
+hand count = 88, expected = 88
+deck count = 38, expected = 38
+TEST 396: +4 cards
+starting hand count = 193, starting deck count = 71
+about to call effect
+effect called
+hand count = 196, expected = 196
+deck count = 67, expected = 67
+TEST 397: +4 cards
+starting hand count = 189, starting deck count = 271
+about to call effect
+effect called
+hand count = 192, expected = 192
+deck count = 267, expected = 267
+TEST 398: +4 cards
+starting hand count = 289, starting deck count = 249
+about to call effect
+effect called
+hand count = 292, expected = 292
+deck count = 245, expected = 245
+TEST 399: +4 cards
+starting hand count = 18, starting deck count = 420
+about to call effect
+effect called
+hand count = 21, expected = 21
+deck count = 416, expected = 416
+TEST 400: +4 cards
+starting hand count = 249, starting deck count = 102
+about to call effect
+effect called
+hand count = 252, expected = 252
+deck count = 98, expected = 98
+TEST 401: +4 cards
+starting hand count = 227, starting deck count = 241
+about to call effect
+effect called
+hand count = 230, expected = 230
+deck count = 237, expected = 237
+TEST 402: +4 cards
+starting hand count = 51, starting deck count = 409
+about to call effect
+effect called
+hand count = 54, expected = 54
+deck count = 405, expected = 405
+TEST 403: +4 cards
+starting hand count = 267, starting deck count = 151
+about to call effect
+effect called
+hand count = 270, expected = 270
+deck count = 147, expected = 147
+TEST 404: +4 cards
+starting hand count = 412, starting deck count = 482
+about to call effect
+effect called
+hand count = 415, expected = 415
+deck count = 478, expected = 478
+TEST 405: +4 cards
+starting hand count = 326, starting deck count = 386
+about to call effect
+effect called
+hand count = 329, expected = 329
+deck count = 382, expected = 382
+TEST 406: +4 cards
+starting hand count = 73, starting deck count = 290
+about to call effect
+effect called
+hand count = 76, expected = 76
+deck count = 286, expected = 286
+TEST 407: +4 cards
+starting hand count = 486, starting deck count = 95
+about to call effect
+effect called
+hand count = 489, expected = 489
+deck count = 91, expected = 91
+TEST 408: +4 cards
+starting hand count = 272, starting deck count = 172
+about to call effect
+effect called
+hand count = 275, expected = 275
+deck count = 168, expected = 168
+TEST 409: +4 cards
+starting hand count = 457, starting deck count = 215
+about to call effect
+effect called
+hand count = 460, expected = 460
+deck count = 211, expected = 211
+TEST 410: +4 cards
+starting hand count = 160, starting deck count = 338
+about to call effect
+effect called
+hand count = 163, expected = 163
+deck count = 334, expected = 334
+TEST 411: +4 cards
+starting hand count = 162, starting deck count = 57
+about to call effect
+effect called
+hand count = 165, expected = 165
+deck count = 53, expected = 53
+TEST 412: +4 cards
+starting hand count = 443, starting deck count = 202
+about to call effect
+effect called
+hand count = 446, expected = 446
+deck count = 198, expected = 198
+TEST 413: +4 cards
+starting hand count = 238, starting deck count = 164
+about to call effect
+effect called
+hand count = 241, expected = 241
+deck count = 160, expected = 160
+TEST 414: +4 cards
+starting hand count = 394, starting deck count = 395
+about to call effect
+effect called
+hand count = 397, expected = 397
+deck count = 391, expected = 391
+TEST 415: +4 cards
+starting hand count = 60, starting deck count = 27
+about to call effect
+effect called
+hand count = 63, expected = 63
+deck count = 23, expected = 23
+TEST 416: +4 cards
+starting hand count = 279, starting deck count = 143
+about to call effect
+effect called
+hand count = 282, expected = 282
+deck count = 139, expected = 139
+TEST 417: +4 cards
+starting hand count = 271, starting deck count = 344
+about to call effect
+effect called
+hand count = 274, expected = 274
+deck count = 340, expected = 340
+TEST 418: +4 cards
+starting hand count = 492, starting deck count = 425
+about to call effect
+effect called
+hand count = 495, expected = 495
+deck count = 421, expected = 421
+TEST 419: +4 cards
+starting hand count = 406, starting deck count = 380
+about to call effect
+effect called
+hand count = 409, expected = 409
+deck count = 376, expected = 376
+TEST 420: +4 cards
+starting hand count = 200, starting deck count = 315
+about to call effect
+effect called
+hand count = 203, expected = 203
+deck count = 311, expected = 311
+TEST 421: +4 cards
+starting hand count = 196, starting deck count = 466
+about to call effect
+effect called
+hand count = 199, expected = 199
+deck count = 462, expected = 462
+TEST 422: +4 cards
+starting hand count = 77, starting deck count = 215
+about to call effect
+effect called
+hand count = 80, expected = 80
+deck count = 211, expected = 211
+TEST 423: +4 cards
+starting hand count = 17, starting deck count = 236
+about to call effect
+effect called
+hand count = 20, expected = 20
+deck count = 232, expected = 232
+TEST 424: +4 cards
+starting hand count = 173, starting deck count = 242
+about to call effect
+effect called
+hand count = 176, expected = 176
+deck count = 238, expected = 238
+TEST 425: +4 cards
+starting hand count = 483, starting deck count = 427
+about to call effect
+effect called
+hand count = 486, expected = 486
+deck count = 423, expected = 423
+TEST 426: +4 cards
+starting hand count = 200, starting deck count = 399
+about to call effect
+effect called
+hand count = 203, expected = 203
+deck count = 395, expected = 395
+TEST 427: +4 cards
+starting hand count = 427, starting deck count = 410
+about to call effect
+effect called
+hand count = 430, expected = 430
+deck count = 406, expected = 406
+TEST 428: +4 cards
+starting hand count = 277, starting deck count = 38
+about to call effect
+effect called
+hand count = 280, expected = 280
+deck count = 34, expected = 34
+TEST 429: +4 cards
+starting hand count = 284, starting deck count = 361
+about to call effect
+effect called
+hand count = 287, expected = 287
+deck count = 357, expected = 357
+TEST 430: +4 cards
+starting hand count = 275, starting deck count = 333
+about to call effect
+effect called
+hand count = 278, expected = 278
+deck count = 329, expected = 329
+TEST 431: +4 cards
+starting hand count = 11, starting deck count = 17
+about to call effect
+effect called
+hand count = 14, expected = 14
+deck count = 13, expected = 13
+TEST 432: +4 cards
+starting hand count = 150, starting deck count = 267
+about to call effect
+effect called
+hand count = 153, expected = 153
+deck count = 263, expected = 263
+TEST 433: +4 cards
+starting hand count = 123, starting deck count = 462
+about to call effect
+effect called
+hand count = 126, expected = 126
+deck count = 458, expected = 458
+TEST 434: +4 cards
+starting hand count = 15, starting deck count = 433
+about to call effect
+effect called
+hand count = 18, expected = 18
+deck count = 429, expected = 429
+TEST 435: +4 cards
+starting hand count = 279, starting deck count = 246
+about to call effect
+effect called
+hand count = 282, expected = 282
+deck count = 242, expected = 242
+TEST 436: +4 cards
+starting hand count = 334, starting deck count = 390
+about to call effect
+effect called
+hand count = 337, expected = 337
+deck count = 386, expected = 386
+TEST 437: +4 cards
+starting hand count = 133, starting deck count = 54
+about to call effect
+effect called
+hand count = 136, expected = 136
+deck count = 50, expected = 50
+TEST 438: +4 cards
+starting hand count = 320, starting deck count = 414
+about to call effect
+effect called
+hand count = 323, expected = 323
+deck count = 410, expected = 410
+TEST 439: +4 cards
+starting hand count = 131, starting deck count = 443
+about to call effect
+effect called
+hand count = 134, expected = 134
+deck count = 439, expected = 439
+TEST 440: +4 cards
+starting hand count = 396, starting deck count = 403
+about to call effect
+effect called
+hand count = 399, expected = 399
+deck count = 399, expected = 399
+TEST 441: +4 cards
+starting hand count = 418, starting deck count = 188
+about to call effect
+effect called
+hand count = 421, expected = 421
+deck count = 184, expected = 184
+TEST 442: +4 cards
+starting hand count = 11, starting deck count = 474
+about to call effect
+effect called
+hand count = 14, expected = 14
+deck count = 470, expected = 470
+TEST 443: +4 cards
+starting hand count = 53, starting deck count = 372
+about to call effect
+effect called
+hand count = 56, expected = 56
+deck count = 368, expected = 368
+TEST 444: +4 cards
+starting hand count = 373, starting deck count = 278
+about to call effect
+effect called
+hand count = 376, expected = 376
+deck count = 274, expected = 274
+TEST 445: +4 cards
+starting hand count = 384, starting deck count = 458
+about to call effect
+effect called
+hand count = 387, expected = 387
+deck count = 454, expected = 454
+TEST 446: +4 cards
+starting hand count = 442, starting deck count = 13
+about to call effect
+effect called
+hand count = 445, expected = 445
+deck count = 9, expected = 9
+TEST 447: +4 cards
+starting hand count = 243, starting deck count = 288
+about to call effect
+effect called
+hand count = 246, expected = 246
+deck count = 284, expected = 284
+TEST 448: +4 cards
+starting hand count = 280, starting deck count = 375
+about to call effect
+effect called
+hand count = 283, expected = 283
+deck count = 371, expected = 371
+TEST 449: +4 cards
+starting hand count = 129, starting deck count = 287
+about to call effect
+effect called
+hand count = 132, expected = 132
+deck count = 283, expected = 283
+TEST 450: +4 cards
+starting hand count = 273, starting deck count = 385
+about to call effect
+effect called
+hand count = 276, expected = 276
+deck count = 381, expected = 381
+TEST 451: +4 cards
+starting hand count = 37, starting deck count = 467
+about to call effect
+effect called
+hand count = 40, expected = 40
+deck count = 463, expected = 463
+TEST 452: +4 cards
+starting hand count = 195, starting deck count = 187
+about to call effect
+effect called
+hand count = 198, expected = 198
+deck count = 183, expected = 183
+TEST 453: +4 cards
+starting hand count = 137, starting deck count = 123
+about to call effect
+effect called
+hand count = 140, expected = 140
+deck count = 119, expected = 119
+TEST 454: +4 cards
+starting hand count = 314, starting deck count = 390
+about to call effect
+effect called
+hand count = 317, expected = 317
+deck count = 386, expected = 386
+TEST 455: +4 cards
+starting hand count = 158, starting deck count = 7
+about to call effect
+effect called
+hand count = 161, expected = 161
+deck count = 3, expected = 3
+TEST 456: +4 cards
+starting hand count = 216, starting deck count = 71
+about to call effect
+effect called
+hand count = 219, expected = 219
+deck count = 67, expected = 67
+TEST 457: +4 cards
+starting hand count = 148, starting deck count = 209
+about to call effect
+effect called
+hand count = 151, expected = 151
+deck count = 205, expected = 205
+TEST 458: +4 cards
+starting hand count = 42, starting deck count = 85
+about to call effect
+effect called
+hand count = 45, expected = 45
+deck count = 81, expected = 81
+TEST 459: +4 cards
+starting hand count = 264, starting deck count = 416
+about to call effect
+effect called
+hand count = 267, expected = 267
+deck count = 412, expected = 412
+TEST 460: +4 cards
+starting hand count = 55, starting deck count = 230
+about to call effect
+effect called
+hand count = 58, expected = 58
+deck count = 226, expected = 226
+TEST 461: +4 cards
+starting hand count = 421, starting deck count = 271
+about to call effect
+effect called
+hand count = 424, expected = 424
+deck count = 267, expected = 267
+TEST 462: +4 cards
+starting hand count = 173, starting deck count = 344
+about to call effect
+effect called
+hand count = 176, expected = 176
+deck count = 340, expected = 340
+TEST 463: +4 cards
+starting hand count = 206, starting deck count = 143
+about to call effect
+effect called
+hand count = 209, expected = 209
+deck count = 139, expected = 139
+TEST 464: +4 cards
+starting hand count = 344, starting deck count = 447
+about to call effect
+effect called
+hand count = 347, expected = 347
+deck count = 443, expected = 443
+TEST 465: +4 cards
+starting hand count = 29, starting deck count = 326
+about to call effect
+effect called
+hand count = 32, expected = 32
+deck count = 322, expected = 322
+TEST 466: +4 cards
+starting hand count = 458, starting deck count = 131
+about to call effect
+effect called
+hand count = 461, expected = 461
+deck count = 127, expected = 127
+TEST 467: +4 cards
+starting hand count = 455, starting deck count = 170
+about to call effect
+effect called
+hand count = 458, expected = 458
+deck count = 166, expected = 166
+TEST 468: +4 cards
+starting hand count = 493, starting deck count = 206
+about to call effect
+effect called
+hand count = 496, expected = 496
+deck count = 202, expected = 202
+TEST 469: +4 cards
+starting hand count = 87, starting deck count = 291
+about to call effect
+effect called
+hand count = 90, expected = 90
+deck count = 287, expected = 287
+TEST 470: +4 cards
+starting hand count = 325, starting deck count = 296
+about to call effect
+effect called
+hand count = 328, expected = 328
+deck count = 292, expected = 292
+TEST 471: +4 cards
+starting hand count = 312, starting deck count = 132
+about to call effect
+effect called
+hand count = 315, expected = 315
+deck count = 128, expected = 128
+TEST 472: +4 cards
+starting hand count = 282, starting deck count = 278
+about to call effect
+effect called
+hand count = 285, expected = 285
+deck count = 274, expected = 274
+TEST 473: +4 cards
+starting hand count = 473, starting deck count = 214
+about to call effect
+effect called
+hand count = 476, expected = 476
+deck count = 210, expected = 210
+TEST 474: +4 cards
+starting hand count = 371, starting deck count = 16
+about to call effect
+effect called
+hand count = 374, expected = 374
+deck count = 12, expected = 12
+TEST 475: +4 cards
+starting hand count = 65, starting deck count = 340
+about to call effect
+effect called
+hand count = 68, expected = 68
+deck count = 336, expected = 336
+TEST 476: +4 cards
+starting hand count = 67, starting deck count = 420
+about to call effect
+effect called
+hand count = 70, expected = 70
+deck count = 416, expected = 416
+TEST 477: +4 cards
+starting hand count = 154, starting deck count = 408
+about to call effect
+effect called
+hand count = 157, expected = 157
+deck count = 404, expected = 404
+TEST 478: +4 cards
+starting hand count = 448, starting deck count = 383
+about to call effect
+effect called
+hand count = 451, expected = 451
+deck count = 379, expected = 379
+TEST 479: +4 cards
+starting hand count = 327, starting deck count = 329
+about to call effect
+effect called
+hand count = 330, expected = 330
+deck count = 325, expected = 325
+TEST 480: +4 cards
+starting hand count = 333, starting deck count = 150
+about to call effect
+effect called
+hand count = 336, expected = 336
+deck count = 146, expected = 146
+TEST 481: +4 cards
+starting hand count = 369, starting deck count = 174
+about to call effect
+effect called
+hand count = 372, expected = 372
+deck count = 170, expected = 170
+TEST 482: +4 cards
+starting hand count = 0, starting deck count = 309
+about to call effect
+effect called
+hand count = 3, expected = 3
+deck count = 305, expected = 305
+TEST 483: +4 cards
+starting hand count = 257, starting deck count = 48
+about to call effect
+effect called
+hand count = 260, expected = 260
+deck count = 44, expected = 44
+TEST 484: +4 cards
+starting hand count = 127, starting deck count = 454
+about to call effect
+effect called
+hand count = 130, expected = 130
+deck count = 450, expected = 450
+TEST 485: +4 cards
+starting hand count = 0, starting deck count = 64
+about to call effect
+effect called
+hand count = 3, expected = 3
+deck count = 60, expected = 60
+TEST 486: +4 cards
+starting hand count = 140, starting deck count = 227
+about to call effect
+effect called
+hand count = 143, expected = 143
+deck count = 223, expected = 223
+TEST 487: +4 cards
+starting hand count = 211, starting deck count = 390
+about to call effect
+effect called
+hand count = 214, expected = 214
+deck count = 386, expected = 386
+TEST 488: +4 cards
+starting hand count = 294, starting deck count = 497
+about to call effect
+effect called
+hand count = 297, expected = 297
+deck count = 493, expected = 493
+TEST 489: +4 cards
+starting hand count = 19, starting deck count = 229
+about to call effect
+effect called
+hand count = 22, expected = 22
+deck count = 225, expected = 225
+TEST 490: +4 cards
+starting hand count = 314, starting deck count = 363
+about to call effect
+effect called
+hand count = 317, expected = 317
+deck count = 359, expected = 359
+TEST 491: +4 cards
+starting hand count = 110, starting deck count = 376
+about to call effect
+effect called
+hand count = 113, expected = 113
+deck count = 372, expected = 372
+TEST 492: +4 cards
+starting hand count = 181, starting deck count = 281
+about to call effect
+effect called
+hand count = 184, expected = 184
+deck count = 277, expected = 277
+TEST 493: +4 cards
+starting hand count = 422, starting deck count = 441
+about to call effect
+effect called
+hand count = 425, expected = 425
+deck count = 437, expected = 437
+TEST 494: +4 cards
+starting hand count = 171, starting deck count = 373
+about to call effect
+effect called
+hand count = 174, expected = 174
+deck count = 369, expected = 369
+TEST 495: +4 cards
+starting hand count = 492, starting deck count = 275
+about to call effect
+effect called
+hand count = 495, expected = 495
+deck count = 271, expected = 271
+TEST 496: +4 cards
+starting hand count = 241, starting deck count = 245
+about to call effect
+effect called
+hand count = 244, expected = 244
+deck count = 241, expected = 241
+TEST 497: +4 cards
+starting hand count = 155, starting deck count = 432
+about to call effect
+effect called
+hand count = 158, expected = 158
+deck count = 428, expected = 428
+TEST 498: +4 cards
+starting hand count = 433, starting deck count = 446
+about to call effect
+effect called
+hand count = 436, expected = 436
+deck count = 442, expected = 442
+TEST 499: +4 cards
+starting hand count = 452, starting deck count = 397
+about to call effect
+effect called
+hand count = 455, expected = 455
+deck count = 393, expected = 393
+TEST 500: +4 cards
+starting hand count = 18, starting deck count = 258
+about to call effect
+effect called
+hand count = 21, expected = 21
+deck count = 254, expected = 254
+
+ >>>>> SUCCESS: Testing complete council_room <<<<<
+
+File 'dominion.c'
+Lines executed:6.64% of 557
+Creating 'dominion.c.gcov'
+
+        -:    0:Source:dominion.c
+        -:    0:Graph:dominion.gcno
+        -:    0:Data:dominion.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:#include <stdio.h>
+        -:    5:#include <math.h>
+        -:    6:#include <stdlib.h>
+        -:    7:
+        -:    8:// added for Assignment 2 refactor
+        -:    9:int smithyEffect(int currentPlayer, struct gameState *state, int handPos);
+        -:   10:int adventurerEffect(int drawntreasure, struct gameState *state, int currentPlayer, int temphand[]);
+        -:   11:int villageEffect(int currentPlayer, struct gameState *state, int handPos);
+        -:   12:int greatHallEffect(int currentPlayer, struct gameState *state, int handPos);
+        -:   13:int stewardEffect(int choice1, int choice2, int choice3, int currentPlayer, struct gameState *state, int handPos);
+        -:   14:
+    #####:   15:int compare(const void* a, const void* b) {
+    #####:   16:  if (*(int*)a > *(int*)b)
+    #####:   17:    return 1;
+    #####:   18:  if (*(int*)a < *(int*)b)
+    #####:   19:    return -1;
+    #####:   20:  return 0;
+        -:   21:}
+        -:   22:
+    #####:   23:struct gameState* newGame() {
+    #####:   24:  struct gameState* g = malloc(sizeof(struct gameState));
+    #####:   25:  return g;
+        -:   26:}
+        -:   27:
+    #####:   28:int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
+        -:   29:		  int k8, int k9, int k10) {
+    #####:   30:  int* k = malloc(10 * sizeof(int));
+    #####:   31:  k[0] = k1;
+    #####:   32:  k[1] = k2;
+    #####:   33:  k[2] = k3;
+    #####:   34:  k[3] = k4;
+    #####:   35:  k[4] = k5;
+    #####:   36:  k[5] = k6;
+    #####:   37:  k[6] = k7;
+    #####:   38:  k[7] = k8;
+    #####:   39:  k[8] = k9;
+    #####:   40:  k[9] = k10;
+    #####:   41:  return k;
+        -:   42:}
+        -:   43:
+    #####:   44:int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
+        -:   45:		   struct gameState *state) {
+        -:   46:
+        -:   47:  int i;
+        -:   48:  int j;
+        -:   49:  int it;
+        -:   50:  //set up random number generator
+    #####:   51:  SelectStream(1);
+    #####:   52:  PutSeed((long)randomSeed);
+        -:   53:
+        -:   54:  //check number of players
+    #####:   55:  if (numPlayers > MAX_PLAYERS || numPlayers < 2)
+        -:   56:    {
+    #####:   57:      return -1;
+        -:   58:    }
+        -:   59:
+        -:   60:  //set number of players
+    #####:   61:  state->numPlayers = numPlayers;
+        -:   62:
+        -:   63:  //check selected kingdom cards are different
+    #####:   64:  for (i = 0; i < 10; i++)
+        -:   65:    {
+    #####:   66:      for (j = 0; j < 10; j++)
+        -:   67:        {
+    #####:   68:	  if (j != i && kingdomCards[j] == kingdomCards[i])
+        -:   69:	    {
+    #####:   70:	      return -1;
+        -:   71:	    }
+        -:   72:        }
+        -:   73:    }
+        -:   74:
+        -:   75:
+        -:   76:  //initialize supply
+        -:   77:  ///////////////////////////////
+        -:   78:
+        -:   79:  //set number of Curse cards
+    #####:   80:  if (numPlayers == 2)
+        -:   81:    {
+    #####:   82:      state->supplyCount[curse] = 10;
+        -:   83:    }
+    #####:   84:  else if (numPlayers == 3)
+        -:   85:    {
+    #####:   86:      state->supplyCount[curse] = 20;
+        -:   87:    }
+        -:   88:  else
+        -:   89:    {
+    #####:   90:      state->supplyCount[curse] = 30;
+        -:   91:    }
+        -:   92:
+        -:   93:  //set number of Victory cards
+    #####:   94:  if (numPlayers == 2)
+        -:   95:    {
+    #####:   96:      state->supplyCount[estate] = 8;
+    #####:   97:      state->supplyCount[duchy] = 8;
+    #####:   98:      state->supplyCount[province] = 8;
+        -:   99:    }
+        -:  100:  else
+        -:  101:    {
+    #####:  102:      state->supplyCount[estate] = 12;
+    #####:  103:      state->supplyCount[duchy] = 12;
+    #####:  104:      state->supplyCount[province] = 12;
+        -:  105:    }
+        -:  106:
+        -:  107:  //set number of Treasure cards
+    #####:  108:  state->supplyCount[copper] = 60 - (7 * numPlayers);
+    #####:  109:  state->supplyCount[silver] = 40;
+    #####:  110:  state->supplyCount[gold] = 30;
+        -:  111:
+        -:  112:  //set number of Kingdom cards
+    #####:  113:  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
+        -:  114:    {
+    #####:  115:      for (j = 0; j < 10; j++)           		//loop chosen cards
+        -:  116:	{
+    #####:  117:	  if (kingdomCards[j] == i)
+        -:  118:	    {
+        -:  119:	      //check if card is a 'Victory' Kingdom card
+    #####:  120:	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
+        -:  121:		{
+    #####:  122:		  if (numPlayers == 2){
+    #####:  123:		    state->supplyCount[i] = 8;
+        -:  124:		  }
+    #####:  125:		  else{ state->supplyCount[i] = 12; }
+        -:  126:		}
+        -:  127:	      else
+        -:  128:		{
+    #####:  129:		  state->supplyCount[i] = 10;
+        -:  130:		}
+    #####:  131:	      break;
+        -:  132:	    }
+        -:  133:	  else    //card is not in the set choosen for the game
+        -:  134:	    {
+    #####:  135:	      state->supplyCount[i] = -1;
+        -:  136:	    }
+        -:  137:	}
+        -:  138:
+        -:  139:    }
+        -:  140:
+        -:  141:  ////////////////////////
+        -:  142:  //supply intilization complete
+        -:  143:
+        -:  144:  //set player decks
+    #####:  145:  for (i = 0; i < numPlayers; i++)
+        -:  146:    {
+    #####:  147:      state->deckCount[i] = 0;
+    #####:  148:      for (j = 0; j < 3; j++)
+        -:  149:	{
+    #####:  150:	  state->deck[i][j] = estate;
+    #####:  151:	  state->deckCount[i]++;
+        -:  152:	}
+    #####:  153:      for (j = 3; j < 10; j++)
+        -:  154:	{
+    #####:  155:	  state->deck[i][j] = copper;
+    #####:  156:	  state->deckCount[i]++;
+        -:  157:	}
+        -:  158:    }
+        -:  159:
+        -:  160:  //shuffle player decks
+    #####:  161:  for (i = 0; i < numPlayers; i++)
+        -:  162:    {
+    #####:  163:      if ( shuffle(i, state) < 0 )
+        -:  164:	{
+    #####:  165:	  return -1;
+        -:  166:	}
+        -:  167:    }
+        -:  168:
+        -:  169:  //draw player hands
+    #####:  170:  for (i = 0; i < numPlayers; i++)
+        -:  171:    {
+        -:  172:      //initialize hand size to zero
+    #####:  173:      state->handCount[i] = 0;
+    #####:  174:      state->discardCount[i] = 0;
+        -:  175:      //draw 5 cards
+        -:  176:      // for (j = 0; j < 5; j++)
+        -:  177:      //	{
+        -:  178:      //	  drawCard(i, state);
+        -:  179:      //	}
+        -:  180:    }
+        -:  181:
+        -:  182:  //set embargo tokens to 0 for all supply piles
+    #####:  183:  for (i = 0; i <= treasure_map; i++)
+        -:  184:    {
+    #####:  185:      state->embargoTokens[i] = 0;
+        -:  186:    }
+        -:  187:
+        -:  188:  //initialize first player's turn
+    #####:  189:  state->outpostPlayed = 0;
+    #####:  190:  state->phase = 0;
+    #####:  191:  state->numActions = 1;
+    #####:  192:  state->numBuys = 1;
+    #####:  193:  state->playedCardCount = 0;
+    #####:  194:  state->whoseTurn = 0;
+    #####:  195:  state->handCount[state->whoseTurn] = 0;
+        -:  196:  //int it; move to top
+        -:  197:
+        -:  198:  //Moved draw cards to here, only drawing at the start of a turn
+    #####:  199:  for (it = 0; it < 5; it++){
+    #####:  200:    drawCard(state->whoseTurn, state);
+        -:  201:  }
+        -:  202:
+    #####:  203:  updateCoins(state->whoseTurn, state, 0);
+        -:  204:
+    #####:  205:  return 0;
+        -:  206:}
+        -:  207:
+    #####:  208:int shuffle(int player, struct gameState *state) {
+        -:  209:
+        -:  210:
+        -:  211:  int newDeck[MAX_DECK];
+    #####:  212:  int newDeckPos = 0;
+        -:  213:  int card;
+        -:  214:  int i;
+        -:  215:
+    #####:  216:  if (state->deckCount[player] < 1)
+    #####:  217:    return -1;
+    #####:  218:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare);
+        -:  219:  /* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
+        -:  220:
+    #####:  221:  while (state->deckCount[player] > 0) {
+    #####:  222:    card = floor(Random() * state->deckCount[player]);
+    #####:  223:    newDeck[newDeckPos] = state->deck[player][card];
+    #####:  224:    newDeckPos++;
+    #####:  225:    for (i = card; i < state->deckCount[player]-1; i++) {
+    #####:  226:      state->deck[player][i] = state->deck[player][i+1];
+        -:  227:    }
+    #####:  228:    state->deckCount[player]--;
+        -:  229:  }
+    #####:  230:  for (i = 0; i < newDeckPos; i++) {
+    #####:  231:    state->deck[player][i] = newDeck[i];
+    #####:  232:    state->deckCount[player]++;
+        -:  233:  }
+        -:  234:
+    #####:  235:  return 0;
+        -:  236:}
+        -:  237:
+    #####:  238:int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state)
+        -:  239:{
+        -:  240:  int card;
+    #####:  241:  int coin_bonus = 0; 		//tracks coins gain from actions
+        -:  242:
+        -:  243:  //check if it is the right phase
+    #####:  244:  if (state->phase != 0)
+        -:  245:    {
+    #####:  246:      return -1;
+        -:  247:    }
+        -:  248:
+        -:  249:  //check if player has enough actions
+    #####:  250:  if ( state->numActions < 1 )
+        -:  251:    {
+    #####:  252:      return -1;
+        -:  253:    }
+        -:  254:
+        -:  255:  //get card played
+    #####:  256:  card = handCard(handPos, state);
+        -:  257:
+        -:  258:  //check if selected card is an action
+    #####:  259:  if ( card < adventurer || card > treasure_map )
+        -:  260:    {
+    #####:  261:      return -1;
+        -:  262:    }
+        -:  263:
+        -:  264:  //play card
+    #####:  265:  if ( cardEffect(card, choice1, choice2, choice3, state, handPos, &coin_bonus) < 0 )
+        -:  266:    {
+    #####:  267:      return -1;
+        -:  268:    }
+        -:  269:
+        -:  270:  //reduce number of actions
+    #####:  271:  state->numActions--;
+        -:  272:
+        -:  273:  //update coins (Treasure cards may be added with card draws)
+    #####:  274:  updateCoins(state->whoseTurn, state, coin_bonus);
+        -:  275:
+    #####:  276:  return 0;
+        -:  277:}
+        -:  278:
+    #####:  279:int buyCard(int supplyPos, struct gameState *state) {
+        -:  280:  int who;
+        -:  281:  if (DEBUG){
+        -:  282:    printf("Entering buyCard...\n");
+        -:  283:  }
+        -:  284:
+        -:  285:  // I don't know what to do about the phase thing.
+        -:  286:
+    #####:  287:  who = state->whoseTurn;
+        -:  288:
+    #####:  289:  if (state->numBuys < 1){
+        -:  290:    if (DEBUG)
+        -:  291:      printf("You do not have any buys left\n");
+    #####:  292:    return -1;
+    #####:  293:  } else if (supplyCount(supplyPos, state) <1){
+        -:  294:    if (DEBUG)
+        -:  295:      printf("There are not any of that type of card left\n");
+    #####:  296:    return -1;
+    #####:  297:  } else if (state->coins < getCost(supplyPos)){
+        -:  298:    if (DEBUG)
+        -:  299:      printf("You do not have enough money to buy that. You have %d coins.\n", state->coins);
+    #####:  300:    return -1;
+        -:  301:  } else {
+    #####:  302:    state->phase=1;
+        -:  303:    //state->supplyCount[supplyPos]--;
+    #####:  304:    gainCard(supplyPos, state, 0, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
+        -:  305:
+    #####:  306:    state->coins = (state->coins) - (getCost(supplyPos));
+    #####:  307:    state->numBuys--;
+        -:  308:    if (DEBUG)
+        -:  309:      printf("You bought card number %d for %d coins. You now have %d buys and %d coins.\n", supplyPos, getCost(supplyPos), state->numBuys, state->coins);
+        -:  310:  }
+        -:  311:
+        -:  312:  //state->discard[who][state->discardCount[who]] = supplyPos;
+        -:  313:  //state->discardCount[who]++;
+        -:  314:
+    #####:  315:  return 0;
+        -:  316:}
+        -:  317:
+    #####:  318:int numHandCards(struct gameState *state) {
+    #####:  319:  return state->handCount[ whoseTurn(state) ];
+        -:  320:}
+        -:  321:
+    #####:  322:int handCard(int handPos, struct gameState *state) {
+    #####:  323:  int currentPlayer = whoseTurn(state);
+    #####:  324:  return state->hand[currentPlayer][handPos];
+        -:  325:}
+        -:  326:
+    #####:  327:int supplyCount(int card, struct gameState *state) {
+    #####:  328:  return state->supplyCount[card];
+        -:  329:}
+        -:  330:
+    #####:  331:int fullDeckCount(int player, int card, struct gameState *state) {
+        -:  332:  int i;
+    #####:  333:  int count = 0;
+        -:  334:
+    #####:  335:  for (i = 0; i < state->deckCount[player]; i++)
+        -:  336:    {
+    #####:  337:      if (state->deck[player][i] == card) count++;
+        -:  338:    }
+        -:  339:
+    #####:  340:  for (i = 0; i < state->handCount[player]; i++)
+        -:  341:    {
+    #####:  342:      if (state->hand[player][i] == card) count++;
+        -:  343:    }
+        -:  344:
+    #####:  345:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  346:    {
+    #####:  347:      if (state->discard[player][i] == card) count++;
+        -:  348:    }
+        -:  349:
+    #####:  350:  return count;
+        -:  351:}
+        -:  352:
+      500:  353:int whoseTurn(struct gameState *state) {
+      500:  354:  return state->whoseTurn;
+        -:  355:}
+        -:  356:
+    #####:  357:int endTurn(struct gameState *state) {
+        -:  358:  int k;
+        -:  359:  int i;
+    #####:  360:  int currentPlayer = whoseTurn(state);
+        -:  361:
+        -:  362:  //Discard hand
+    #####:  363:  for (i = 0; i < state->handCount[currentPlayer]; i++){
+    #####:  364:    state->discard[currentPlayer][state->discardCount[currentPlayer]++] = state->hand[currentPlayer][i];//Discard
+    #####:  365:    state->hand[currentPlayer][i] = -1;//Set card to -1
+        -:  366:  }
+    #####:  367:  state->handCount[currentPlayer] = 0;//Reset hand count
+        -:  368:
+        -:  369:  //Code for determining the player
+    #####:  370:  if (currentPlayer < (state->numPlayers - 1)){
+    #####:  371:    state->whoseTurn = currentPlayer + 1;//Still safe to increment
+        -:  372:  }
+        -:  373:  else{
+    #####:  374:    state->whoseTurn = 0;//Max player has been reached, loop back around to player 1
+        -:  375:  }
+        -:  376:
+    #####:  377:  state->outpostPlayed = 0;
+    #####:  378:  state->phase = 0;
+    #####:  379:  state->numActions = 1;
+    #####:  380:  state->coins = 0;
+    #####:  381:  state->numBuys = 1;
+    #####:  382:  state->playedCardCount = 0;
+    #####:  383:  state->handCount[state->whoseTurn] = 0;
+        -:  384:
+        -:  385:  //int k; move to top
+        -:  386:  //Next player draws hand
+    #####:  387:  for (k = 0; k < 5; k++){
+    #####:  388:    drawCard(state->whoseTurn, state);//Draw a card
+        -:  389:  }
+        -:  390:
+        -:  391:  //Update money
+    #####:  392:  updateCoins(state->whoseTurn, state , 0);
+        -:  393:
+    #####:  394:  return 0;
+        -:  395:}
+        -:  396:
+    #####:  397:int isGameOver(struct gameState *state) {
+        -:  398:  int i;
+        -:  399:  int j;
+        -:  400:
+        -:  401:  //if stack of Province cards is empty, the game ends
+    #####:  402:  if (state->supplyCount[province] == 0)
+        -:  403:    {
+    #####:  404:      return 1;
+        -:  405:    }
+        -:  406:
+        -:  407:  //if three supply pile are at 0, the game ends
+    #####:  408:  j = 0;
+    #####:  409:  for (i = 0; i < 25; i++)
+        -:  410:    {
+    #####:  411:      if (state->supplyCount[i] == 0)
+        -:  412:	{
+    #####:  413:	  j++;
+        -:  414:	}
+        -:  415:    }
+    #####:  416:  if ( j >= 3)
+        -:  417:    {
+    #####:  418:      return 1;
+        -:  419:    }
+        -:  420:
+    #####:  421:  return 0;
+        -:  422:}
+        -:  423:
+    #####:  424:int scoreFor (int player, struct gameState *state) {
+        -:  425:
+        -:  426:  int i;
+    #####:  427:  int score = 0;
+        -:  428:  //score from hand
+    #####:  429:  for (i = 0; i < state->handCount[player]; i++)
+        -:  430:    {
+    #####:  431:      if (state->hand[player][i] == curse) { score = score - 1; };
+    #####:  432:      if (state->hand[player][i] == estate) { score = score + 1; };
+    #####:  433:      if (state->hand[player][i] == duchy) { score = score + 3; };
+    #####:  434:      if (state->hand[player][i] == province) { score = score + 6; };
+    #####:  435:      if (state->hand[player][i] == great_hall) { score = score + 1; };
+    #####:  436:      if (state->hand[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  437:    }
+        -:  438:
+        -:  439:  //score from discard
+    #####:  440:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  441:    {
+    #####:  442:      if (state->discard[player][i] == curse) { score = score - 1; };
+    #####:  443:      if (state->discard[player][i] == estate) { score = score + 1; };
+    #####:  444:      if (state->discard[player][i] == duchy) { score = score + 3; };
+    #####:  445:      if (state->discard[player][i] == province) { score = score + 6; };
+    #####:  446:      if (state->discard[player][i] == great_hall) { score = score + 1; };
+    #####:  447:      if (state->discard[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  448:    }
+        -:  449:
+        -:  450:  //score from deck
+    #####:  451:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  452:    {
+    #####:  453:      if (state->deck[player][i] == curse) { score = score - 1; };
+    #####:  454:      if (state->deck[player][i] == estate) { score = score + 1; };
+    #####:  455:      if (state->deck[player][i] == duchy) { score = score + 3; };
+    #####:  456:      if (state->deck[player][i] == province) { score = score + 6; };
+    #####:  457:      if (state->deck[player][i] == great_hall) { score = score + 1; };
+    #####:  458:      if (state->deck[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  459:    }
+        -:  460:
+    #####:  461:  return score;
+        -:  462:}
+        -:  463:
+    #####:  464:int getWinners(int players[MAX_PLAYERS], struct gameState *state) {
+        -:  465:  int i;
+        -:  466:  int j;
+        -:  467:  int highScore;
+        -:  468:  int currentPlayer;
+        -:  469:
+        -:  470:  //get score for each player
+    #####:  471:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  472:    {
+        -:  473:      //set unused player scores to -9999
+    #####:  474:      if (i >= state->numPlayers)
+        -:  475:	{
+    #####:  476:	  players[i] = -9999;
+        -:  477:	}
+        -:  478:      else
+        -:  479:	{
+    #####:  480:	  players[i] = scoreFor (i, state);
+        -:  481:	}
+        -:  482:    }
+        -:  483:
+        -:  484:  //find highest score
+    #####:  485:  j = 0;
+    #####:  486:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  487:    {
+    #####:  488:      if (players[i] > players[j])
+        -:  489:	{
+    #####:  490:	  j = i;
+        -:  491:	}
+        -:  492:    }
+    #####:  493:  highScore = players[j];
+        -:  494:
+        -:  495:  //add 1 to players who had less turns
+    #####:  496:  currentPlayer = whoseTurn(state);
+    #####:  497:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  498:    {
+    #####:  499:      if ( players[i] == highScore && i > currentPlayer )
+        -:  500:	{
+    #####:  501:	  players[i]++;
+        -:  502:	}
+        -:  503:    }
+        -:  504:
+        -:  505:  //find new highest score
+    #####:  506:  j = 0;
+    #####:  507:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  508:    {
+    #####:  509:      if ( players[i] > players[j] )
+        -:  510:	{
+    #####:  511:	  j = i;
+        -:  512:	}
+        -:  513:    }
+    #####:  514:  highScore = players[j];
+        -:  515:
+        -:  516:  //set winners in array to 1 and rest to 0
+    #####:  517:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  518:    {
+    #####:  519:      if ( players[i] == highScore )
+        -:  520:	{
+    #####:  521:	  players[i] = 1;
+        -:  522:	}
+        -:  523:      else
+        -:  524:	{
+    #####:  525:	  players[i] = 0;
+        -:  526:	}
+        -:  527:    }
+        -:  528:
+    #####:  529:  return 0;
+        -:  530:}
+        -:  531:
+     2500:  532:int drawCard(int player, struct gameState *state)
+        -:  533:{	int count;
+        -:  534:  int deckCounter;
+     2500:  535:  if (state->deckCount[player] <= 0){//Deck is empty
+        -:  536:
+        -:  537:    //Step 1 Shuffle the discard pile back into a deck
+        -:  538:    int i;
+        -:  539:    //Move discard to deck
+    #####:  540:    for (i = 0; i < state->discardCount[player];i++){
+    #####:  541:      state->deck[player][i] = state->discard[player][i];
+    #####:  542:      state->discard[player][i] = -1;
+        -:  543:    }
+        -:  544:
+    #####:  545:    state->deckCount[player] = state->discardCount[player];
+    #####:  546:    state->discardCount[player] = 0;//Reset discard
+        -:  547:
+        -:  548:    //Shufffle the deck
+    #####:  549:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
+        -:  550:
+        -:  551:    if (DEBUG){//Debug statements
+        -:  552:      printf("Deck count now: %d\n", state->deckCount[player]);
+        -:  553:    }
+        -:  554:
+    #####:  555:    state->discardCount[player] = 0;
+        -:  556:
+        -:  557:    //Step 2 Draw Card
+    #####:  558:    count = state->handCount[player];//Get current player's hand count
+        -:  559:
+        -:  560:    if (DEBUG){//Debug statements
+        -:  561:      printf("Current hand count: %d\n", count);
+        -:  562:    }
+        -:  563:
+    #####:  564:    deckCounter = state->deckCount[player];//Create a holder for the deck count
+        -:  565:
+    #####:  566:    if (deckCounter == 0)
+    #####:  567:      return -1;
+        -:  568:
+    #####:  569:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
+    #####:  570:    state->deckCount[player]--;
+    #####:  571:    state->handCount[player]++;//Increment hand count
+        -:  572:  }
+        -:  573:
+        -:  574:  else{
+     2500:  575:    int count = state->handCount[player];//Get current hand count for player
+        -:  576:    int deckCounter;
+        -:  577:    if (DEBUG){//Debug statements
+        -:  578:      printf("Current hand count: %d\n", count);
+        -:  579:    }
+        -:  580:
+     2500:  581:    deckCounter = state->deckCount[player];//Create holder for the deck count
+     2500:  582:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+     2500:  583:    state->deckCount[player]--;
+     2500:  584:    state->handCount[player]++;//Increment hand count
+        -:  585:  }
+        -:  586:
+     2500:  587:  return 0;
+        -:  588:}
+        -:  589:
+    #####:  590:int getCost(int cardNumber)
+        -:  591:{
+    #####:  592:  switch( cardNumber )
+        -:  593:    {
+        -:  594:    case curse:
+    #####:  595:      return 0;
+        -:  596:    case estate:
+    #####:  597:      return 2;
+        -:  598:    case duchy:
+    #####:  599:      return 5;
+        -:  600:    case province:
+    #####:  601:      return 8;
+        -:  602:    case copper:
+    #####:  603:      return 0;
+        -:  604:    case silver:
+    #####:  605:      return 3;
+        -:  606:    case gold:
+    #####:  607:      return 6;
+        -:  608:    case adventurer:
+    #####:  609:      return 6;
+        -:  610:    case council_room:
+    #####:  611:      return 5;
+        -:  612:    case feast:
+    #####:  613:      return 4;
+        -:  614:    case gardens:
+    #####:  615:      return 4;
+        -:  616:    case mine:
+    #####:  617:      return 5;
+        -:  618:    case remodel:
+    #####:  619:      return 4;
+        -:  620:    case smithy:
+    #####:  621:      return 4;
+        -:  622:    case village:
+    #####:  623:      return 3;
+        -:  624:    case baron:
+    #####:  625:      return 4;
+        -:  626:    case great_hall:
+    #####:  627:      return 3;
+        -:  628:    case minion:
+    #####:  629:      return 5;
+        -:  630:    case steward:
+    #####:  631:      return 3;
+        -:  632:    case tribute:
+    #####:  633:      return 5;
+        -:  634:    case ambassador:
+    #####:  635:      return 3;
+        -:  636:    case cutpurse:
+    #####:  637:      return 4;
+        -:  638:    case embargo:
+    #####:  639:      return 2;
+        -:  640:    case outpost:
+    #####:  641:      return 5;
+        -:  642:    case salvager:
+    #####:  643:      return 4;
+        -:  644:    case sea_hag:
+    #####:  645:      return 4;
+        -:  646:    case treasure_map:
+    #####:  647:      return 4;
+        -:  648:    }
+        -:  649:
+    #####:  650:  return -1;
+        -:  651:}
+        -:  652:
+      500:  653:int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
+        -:  654:{
+        -:  655:  int i;
+        -:  656:  int j;
+        -:  657:  int k;
+        -:  658:  int x;
+        -:  659:  int index;
+      500:  660:  int currentPlayer = whoseTurn(state);
+      500:  661:  int nextPlayer = currentPlayer + 1;
+        -:  662:
+      500:  663:  int tributeRevealedCards[2] = {-1, -1};
+        -:  664:  int temphand[MAX_HAND];// moved above the if statement
+      500:  665:  int drawntreasure=0;
+        -:  666:  // REFACTOR: moved initialization of cardDrawn and z to adventurer function
+        -:  667:  //int cardDrawn;
+        -:  668:  //int z = 0;// this is the counter for the temp hand
+      500:  669:  if (nextPlayer > (state->numPlayers - 1)){
+      267:  670:    nextPlayer = 0;
+        -:  671:  }
+        -:  672:
+        -:  673:
+        -:  674:  //uses switch to select card and perform actions
+      500:  675:  switch( card )
+        -:  676:    {
+        -:  677:    case adventurer:
+    #####:  678:        return adventurerEffect(drawntreasure,state,currentPlayer,temphand);
+        -:  679:    case council_room:
+        -:  680:      //+4 Cards
+     2500:  681:      for (i = 0; i < 4; i++)
+        -:  682:	{
+     2000:  683:	  drawCard(currentPlayer, state);
+        -:  684:	}
+        -:  685:
+        -:  686:      //+1 Buy
+      500:  687:      state->numBuys++;
+        -:  688:
+        -:  689:      //Each other player draws a card
+     1500:  690:      for (i = 0; i < state->numPlayers; i++)
+        -:  691:	{
+     1000:  692:	  if ( i != currentPlayer )
+        -:  693:	    {
+      500:  694:	      drawCard(i, state);
+        -:  695:	    }
+        -:  696:	}
+        -:  697:
+        -:  698:      //put played card in played card pile
+      500:  699:      discardCard(handPos, currentPlayer, state, 0);
+        -:  700:
+      500:  701:      return 0;
+        -:  702:
+        -:  703:    case feast:
+        -:  704:      //gain card with cost up to 5
+        -:  705:      //Backup hand
+    #####:  706:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  707:	temphand[i] = state->hand[currentPlayer][i];//Backup card
+    #####:  708:	state->hand[currentPlayer][i] = -1;//Set to nothing
+        -:  709:      }
+        -:  710:      //Backup hand
+        -:  711:
+        -:  712:      //Update Coins for Buy
+    #####:  713:      updateCoins(currentPlayer, state, 5);
+    #####:  714:      x = 1;//Condition to loop on
+    #####:  715:      while( x == 1) {//Buy one card
+    #####:  716:	if (supplyCount(choice1, state) <= 0){
+        -:  717:	  if (DEBUG)
+        -:  718:	    printf("None of that card left, sorry!\n");
+        -:  719:
+        -:  720:	  if (DEBUG){
+        -:  721:	    printf("Cards Left: %d\n", supplyCount(choice1, state));
+        -:  722:	  }
+        -:  723:	}
+    #####:  724:	else if (state->coins < getCost(choice1)){
+    #####:  725:	  printf("That card is too expensive!\n");
+        -:  726:
+        -:  727:	  if (DEBUG){
+        -:  728:	    printf("Coins: %d < %d\n", state->coins, getCost(choice1));
+        -:  729:	  }
+        -:  730:	}
+        -:  731:	else{
+        -:  732:
+        -:  733:	  if (DEBUG){
+        -:  734:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  735:	  }
+        -:  736:
+    #####:  737:	  gainCard(choice1, state, 0, currentPlayer);//Gain the card
+    #####:  738:	  x = 0;//No more buying cards
+        -:  739:
+        -:  740:	  if (DEBUG){
+        -:  741:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  742:	  }
+        -:  743:
+        -:  744:	}
+        -:  745:      }
+        -:  746:
+        -:  747:      //Reset Hand
+    #####:  748:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  749:	state->hand[currentPlayer][i] = temphand[i];
+    #####:  750:	temphand[i] = -1;
+        -:  751:      }
+        -:  752:      //Reset Hand
+        -:  753:
+    #####:  754:      return 0;
+        -:  755:
+        -:  756:    case gardens:
+    #####:  757:      return -1;
+        -:  758:
+        -:  759:    case mine:
+    #####:  760:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  761:
+    #####:  762:      if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold)
+        -:  763:	{
+    #####:  764:	  return -1;
+        -:  765:	}
+        -:  766:
+    #####:  767:      if (choice2 > treasure_map || choice2 < curse)
+        -:  768:	{
+    #####:  769:	  return -1;
+        -:  770:	}
+        -:  771:
+    #####:  772:      if ( (getCost(state->hand[currentPlayer][choice1]) + 3) > getCost(choice2) )
+        -:  773:	{
+    #####:  774:	  return -1;
+        -:  775:	}
+        -:  776:
+    #####:  777:      gainCard(choice2, state, 2, currentPlayer);
+        -:  778:
+        -:  779:      //discard card from hand
+    #####:  780:      discardCard(handPos, currentPlayer, state, 0);
+        -:  781:
+        -:  782:      //discard trashed card
+    #####:  783:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  784:	{
+    #####:  785:	  if (state->hand[currentPlayer][i] == j)
+        -:  786:	    {
+    #####:  787:	      discardCard(i, currentPlayer, state, 0);
+    #####:  788:	      break;
+        -:  789:	    }
+        -:  790:	}
+        -:  791:
+    #####:  792:      return 0;
+        -:  793:
+        -:  794:    case remodel:
+    #####:  795:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  796:
+    #####:  797:      if ( (getCost(state->hand[currentPlayer][choice1]) + 2) > getCost(choice2) )
+        -:  798:	{
+    #####:  799:	  return -1;
+        -:  800:	}
+        -:  801:
+    #####:  802:      gainCard(choice2, state, 0, currentPlayer);
+        -:  803:
+        -:  804:      //discard card from hand
+    #####:  805:      discardCard(handPos, currentPlayer, state, 0);
+        -:  806:
+        -:  807:      //discard trashed card
+    #####:  808:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  809:	{
+    #####:  810:	  if (state->hand[currentPlayer][i] == j)
+        -:  811:	    {
+    #####:  812:	      discardCard(i, currentPlayer, state, 0);
+    #####:  813:	      break;
+        -:  814:	    }
+        -:  815:	}
+        -:  816:
+        -:  817:
+    #####:  818:      return 0;
+        -:  819:
+        -:  820:    case smithy:
+    #####:  821:        return smithyEffect(currentPlayer, state, handPos);
+        -:  822:
+        -:  823:    case village:
+    #####:  824:        return villageEffect(currentPlayer, state, handPos);
+        -:  825:
+        -:  826:    case baron:
+    #####:  827:      state->numBuys++;//Increase buys by 1!
+    #####:  828:      if (choice1 > 0){//Boolean true or going to discard an estate
+    #####:  829:	int p = 0;//Iterator for hand!
+    #####:  830:	int card_not_discarded = 1;//Flag for discard set!
+    #####:  831:	while(card_not_discarded){
+    #####:  832:	  if (state->hand[currentPlayer][p] == estate){//Found an estate card!
+    #####:  833:	    state->coins += 4;//Add 4 coins to the amount of coins
+    #####:  834:	    state->discard[currentPlayer][state->discardCount[currentPlayer]] = state->hand[currentPlayer][p];
+    #####:  835:	    state->discardCount[currentPlayer]++;
+    #####:  836:	    for (;p < state->handCount[currentPlayer]; p++){
+    #####:  837:	      state->hand[currentPlayer][p] = state->hand[currentPlayer][p+1];
+        -:  838:	    }
+    #####:  839:	    state->hand[currentPlayer][state->handCount[currentPlayer]] = -1;
+    #####:  840:	    state->handCount[currentPlayer]--;
+    #####:  841:	    card_not_discarded = 0;//Exit the loop
+        -:  842:	  }
+    #####:  843:	  else if (p > state->handCount[currentPlayer]){
+        -:  844:	    if(DEBUG) {
+        -:  845:	      printf("No estate cards in your hand, invalid choice\n");
+        -:  846:	      printf("Must gain an estate if there are any\n");
+        -:  847:	    }
+    #####:  848:	    if (supplyCount(estate, state) > 0){
+    #####:  849:	      gainCard(estate, state, 0, currentPlayer);
+    #####:  850:	      state->supplyCount[estate]--;//Decrement estates
+    #####:  851:	      if (supplyCount(estate, state) == 0){
+    #####:  852:		isGameOver(state);
+        -:  853:	      }
+        -:  854:	    }
+    #####:  855:	    card_not_discarded = 0;//Exit the loop
+        -:  856:	  }
+        -:  857:
+        -:  858:	  else{
+    #####:  859:	    p++;//Next card
+        -:  860:	  }
+        -:  861:	}
+        -:  862:      }
+        -:  863:
+        -:  864:      else{
+    #####:  865:	if (supplyCount(estate, state) > 0){
+    #####:  866:	  gainCard(estate, state, 0, currentPlayer);//Gain an estate
+    #####:  867:	  state->supplyCount[estate]--;//Decrement Estates
+    #####:  868:	  if (supplyCount(estate, state) == 0){
+    #####:  869:	    isGameOver(state);
+        -:  870:	  }
+        -:  871:	}
+        -:  872:      }
+        -:  873:
+        -:  874:
+    #####:  875:      return 0;
+        -:  876:
+        -:  877:    case great_hall:
+    #####:  878:      return greatHallEffect(currentPlayer, state, handPos);
+        -:  879:
+        -:  880:    case minion:
+        -:  881:      //+1 action
+    #####:  882:      state->numActions++;
+        -:  883:
+        -:  884:      //discard card from hand
+    #####:  885:      discardCard(handPos, currentPlayer, state, 0);
+        -:  886:
+    #####:  887:      if (choice1)		//+2 coins
+        -:  888:	{
+    #####:  889:	  state->coins = state->coins + 2;
+        -:  890:	}
+        -:  891:
+    #####:  892:      else if (choice2)		//discard hand, redraw 4, other players with 5+ cards discard hand and draw 4
+        -:  893:	{
+        -:  894:	  //discard hand
+    #####:  895:	  while(numHandCards(state) > 0)
+        -:  896:	    {
+    #####:  897:	      discardCard(handPos, currentPlayer, state, 0);
+        -:  898:	    }
+        -:  899:
+        -:  900:	  //draw 4
+    #####:  901:	  for (i = 0; i < 4; i++)
+        -:  902:	    {
+    #####:  903:	      drawCard(currentPlayer, state);
+        -:  904:	    }
+        -:  905:
+        -:  906:	  //other players discard hand and redraw if hand size > 4
+    #####:  907:	  for (i = 0; i < state->numPlayers; i++)
+        -:  908:	    {
+    #####:  909:	      if (i != currentPlayer)
+        -:  910:		{
+    #####:  911:		  if ( state->handCount[i] > 4 )
+        -:  912:		    {
+        -:  913:		      //discard hand
+    #####:  914:		      while( state->handCount[i] > 0 )
+        -:  915:			{
+    #####:  916:			  discardCard(handPos, i, state, 0);
+        -:  917:			}
+        -:  918:
+        -:  919:		      //draw 4
+    #####:  920:		      for (j = 0; j < 4; j++)
+        -:  921:			{
+    #####:  922:			  drawCard(i, state);
+        -:  923:			}
+        -:  924:		    }
+        -:  925:		}
+        -:  926:	    }
+        -:  927:
+        -:  928:	}
+    #####:  929:      return 0;
+        -:  930:
+        -:  931:    case steward:
+    #####:  932:        return stewardEffect(choice1, choice2, choice3, currentPlayer, state, handPos);
+        -:  933:
+        -:  934:    case tribute:
+    #####:  935:      if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){
+    #####:  936:	if (state->deckCount[nextPlayer] > 0){
+    #####:  937:	  tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  938:	  state->deckCount[nextPlayer]--;
+        -:  939:	}
+    #####:  940:	else if (state->discardCount[nextPlayer] > 0){
+    #####:  941:	  tributeRevealedCards[0] = state->discard[nextPlayer][state->discardCount[nextPlayer]-1];
+    #####:  942:	  state->discardCount[nextPlayer]--;
+        -:  943:	}
+        -:  944:	else{
+        -:  945:	  //No Card to Reveal
+        -:  946:	  if (DEBUG){
+        -:  947:	    printf("No cards to reveal\n");
+        -:  948:	  }
+        -:  949:	}
+        -:  950:      }
+        -:  951:
+        -:  952:      else{
+    #####:  953:	if (state->deckCount[nextPlayer] == 0){
+    #####:  954:	  for (i = 0; i < state->discardCount[nextPlayer]; i++){
+    #####:  955:	    state->deck[nextPlayer][i] = state->discard[nextPlayer][i];//Move to deck
+    #####:  956:	    state->deckCount[nextPlayer]++;
+    #####:  957:	    state->discard[nextPlayer][i] = -1;
+    #####:  958:	    state->discardCount[nextPlayer]--;
+        -:  959:	  }
+        -:  960:
+    #####:  961:	  shuffle(nextPlayer,state);//Shuffle the deck
+        -:  962:	}
+    #####:  963:	tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  964:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####:  965:	state->deckCount[nextPlayer]--;
+    #####:  966:	tributeRevealedCards[1] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  967:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####:  968:	state->deckCount[nextPlayer]--;
+        -:  969:      }
+        -:  970:
+    #####:  971:      if (tributeRevealedCards[0] == tributeRevealedCards[1]){//If we have a duplicate card, just drop one
+    #####:  972:	state->playedCards[state->playedCardCount] = tributeRevealedCards[1];
+    #####:  973:	state->playedCardCount++;
+    #####:  974:	tributeRevealedCards[1] = -1;
+        -:  975:      }
+        -:  976:
+    #####:  977:      for (i = 0; i <= 2; i ++){
+    #####:  978:	if (tributeRevealedCards[i] == copper || tributeRevealedCards[i] == silver || tributeRevealedCards[i] == gold){//Treasure cards
+    #####:  979:	  state->coins += 2;
+        -:  980:	}
+        -:  981:
+    #####:  982:	else if (tributeRevealedCards[i] == estate || tributeRevealedCards[i] == duchy || tributeRevealedCards[i] == province || tributeRevealedCards[i] == gardens || tributeRevealedCards[i] == great_hall){//Victory Card Found
+    #####:  983:	  drawCard(currentPlayer, state);
+    #####:  984:	  drawCard(currentPlayer, state);
+        -:  985:	}
+        -:  986:	else{//Action Card
+    #####:  987:	  state->numActions = state->numActions + 2;
+        -:  988:	}
+        -:  989:      }
+        -:  990:
+    #####:  991:      return 0;
+        -:  992:
+        -:  993:    case ambassador:
+    #####:  994:      j = 0;		//used to check if player has enough cards to discard
+        -:  995:
+    #####:  996:      if (choice2 > 2 || choice2 < 0)
+        -:  997:	{
+    #####:  998:	  return -1;
+        -:  999:	}
+        -: 1000:
+    #####: 1001:      if (choice1 == handPos)
+        -: 1002:	{
+    #####: 1003:	  return -1;
+        -: 1004:	}
+        -: 1005:
+    #####: 1006:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1007:	{
+    #####: 1008:	  if (i != handPos && i == state->hand[currentPlayer][choice1] && i != choice1)
+        -: 1009:	    {
+    #####: 1010:	      j++;
+        -: 1011:	    }
+        -: 1012:	}
+    #####: 1013:      if (j < choice2)
+        -: 1014:	{
+    #####: 1015:	  return -1;
+        -: 1016:	}
+        -: 1017:
+        -: 1018:      if (DEBUG)
+        -: 1019:	printf("Player %d reveals card number: %d\n", currentPlayer, state->hand[currentPlayer][choice1]);
+        -: 1020:
+        -: 1021:      //increase supply count for choosen card by amount being discarded
+    #####: 1022:      state->supplyCount[state->hand[currentPlayer][choice1]] += choice2;
+        -: 1023:
+        -: 1024:      //each other player gains a copy of revealed card
+    #####: 1025:      for (i = 0; i < state->numPlayers; i++)
+        -: 1026:	{
+    #####: 1027:	  if (i != currentPlayer)
+        -: 1028:	    {
+    #####: 1029:	      gainCard(state->hand[currentPlayer][choice1], state, 0, i);
+        -: 1030:	    }
+        -: 1031:	}
+        -: 1032:
+        -: 1033:      //discard played card from hand
+    #####: 1034:      discardCard(handPos, currentPlayer, state, 0);
+        -: 1035:
+        -: 1036:      //trash copies of cards returned to supply
+    #####: 1037:      for (j = 0; j < choice2; j++)
+        -: 1038:	{
+    #####: 1039:	  for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1040:	    {
+    #####: 1041:	      if (state->hand[currentPlayer][i] == state->hand[currentPlayer][choice1])
+        -: 1042:		{
+    #####: 1043:		  discardCard(i, currentPlayer, state, 1);
+    #####: 1044:		  break;
+        -: 1045:		}
+        -: 1046:	    }
+        -: 1047:	}
+        -: 1048:
+    #####: 1049:      return 0;
+        -: 1050:
+        -: 1051:    case cutpurse:
+        -: 1052:
+    #####: 1053:      updateCoins(currentPlayer, state, 2);
+    #####: 1054:      for (i = 0; i < state->numPlayers; i++)
+        -: 1055:	{
+    #####: 1056:	  if (i != currentPlayer)
+        -: 1057:	    {
+    #####: 1058:	      for (j = 0; j < state->handCount[i]; j++)
+        -: 1059:		{
+    #####: 1060:		  if (state->hand[i][j] == copper)
+        -: 1061:		    {
+    #####: 1062:		      discardCard(j, i, state, 0);
+    #####: 1063:		      break;
+        -: 1064:		    }
+    #####: 1065:		  if (j == state->handCount[i])
+        -: 1066:		    {
+    #####: 1067:		      for (k = 0; k < state->handCount[i]; k++)
+        -: 1068:			{
+        -: 1069:			  if (DEBUG)
+        -: 1070:			    printf("Player %d reveals card number %d\n", i, state->hand[i][k]);
+        -: 1071:			}
+    #####: 1072:		      break;
+        -: 1073:		    }
+        -: 1074:		}
+        -: 1075:
+        -: 1076:	    }
+        -: 1077:
+        -: 1078:	}
+        -: 1079:
+        -: 1080:      //discard played card from hand
+    #####: 1081:      discardCard(handPos, currentPlayer, state, 0);
+        -: 1082:
+    #####: 1083:      return 0;
+        -: 1084:
+        -: 1085:
+        -: 1086:    case embargo:
+        -: 1087:      //+2 Coins
+    #####: 1088:      state->coins = state->coins + 2;
+        -: 1089:
+        -: 1090:      //see if selected pile is in play
+    #####: 1091:      if ( state->supplyCount[choice1] == -1 )
+        -: 1092:	{
+    #####: 1093:	  return -1;
+        -: 1094:	}
+        -: 1095:
+        -: 1096:      //add embargo token to selected supply pile
+    #####: 1097:      state->embargoTokens[choice1]++;
+        -: 1098:
+        -: 1099:      //trash card
+    #####: 1100:      discardCard(handPos, currentPlayer, state, 1);
+    #####: 1101:      return 0;
+        -: 1102:
+        -: 1103:    case outpost:
+        -: 1104:      //set outpost flag
+    #####: 1105:      state->outpostPlayed++;
+        -: 1106:
+        -: 1107:      //discard card
+    #####: 1108:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1109:      return 0;
+        -: 1110:
+        -: 1111:    case salvager:
+        -: 1112:      //+1 buy
+    #####: 1113:      state->numBuys++;
+        -: 1114:
+    #####: 1115:      if (choice1)
+        -: 1116:	{
+        -: 1117:	  //gain coins equal to trashed card
+    #####: 1118:	  state->coins = state->coins + getCost( handCard(choice1, state) );
+        -: 1119:	  //trash card
+    #####: 1120:	  discardCard(choice1, currentPlayer, state, 1);
+        -: 1121:	}
+        -: 1122:
+        -: 1123:      //discard card
+    #####: 1124:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1125:      return 0;
+        -: 1126:
+        -: 1127:    case sea_hag:
+    #####: 1128:      for (i = 0; i < state->numPlayers; i++){
+    #####: 1129:	if (i != currentPlayer){
+    #####: 1130:	  state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];			    state->deckCount[i]--;
+    #####: 1131:	  state->discardCount[i]++;
+    #####: 1132:	  state->deck[i][state->deckCount[i]--] = curse;//Top card now a curse
+        -: 1133:	}
+        -: 1134:      }
+    #####: 1135:      return 0;
+        -: 1136:
+        -: 1137:    case treasure_map:
+        -: 1138:      //search hand for another treasure_map
+    #####: 1139:      index = -1;
+    #####: 1140:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1141:	{
+    #####: 1142:	  if (state->hand[currentPlayer][i] == treasure_map && i != handPos)
+        -: 1143:	    {
+    #####: 1144:	      index = i;
+    #####: 1145:	      break;
+        -: 1146:	    }
+        -: 1147:	}
+    #####: 1148:      if (index > -1)
+        -: 1149:	{
+        -: 1150:	  //trash both treasure cards
+    #####: 1151:	  discardCard(handPos, currentPlayer, state, 1);
+    #####: 1152:	  discardCard(index, currentPlayer, state, 1);
+        -: 1153:
+        -: 1154:	  //gain 4 Gold cards
+    #####: 1155:	  for (i = 0; i < 4; i++)
+        -: 1156:	    {
+    #####: 1157:	      gainCard(gold, state, 1, currentPlayer);
+        -: 1158:	    }
+        -: 1159:
+        -: 1160:	  //return success
+    #####: 1161:	  return 1;
+        -: 1162:	}
+        -: 1163:
+        -: 1164:      //no second treasure_map found in hand
+    #####: 1165:      return -1;
+        -: 1166:    }
+        -: 1167:
+    #####: 1168:  return -1;
+        -: 1169:}
+        -: 1170:
+        -: 1171:
+        -: 1172:/* Assignment 2 refactoring of cards into their own functions.
+        -: 1173: * 5 cards are refactored here, including smithy and adventurer.
+        -: 1174: * **********************************************************/
+        -: 1175:// ADVENTURER CARD REFACTORING
+    #####: 1176:int adventurerEffect(int drawntreasure, struct gameState *state, int currentPlayer, int temphand[]) {
+    #####: 1177:      int z=0;
+        -: 1178:      int cardDrawn;
+        -: 1179:      // BUG ADDED: 3 treasures instead of the correct 2
+    #####: 1180:      while(drawntreasure<2){
+    #####: 1181:        if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+    #####: 1182:          shuffle(currentPlayer, state);
+        -: 1183:        }
+    #####: 1184:        drawCard(currentPlayer, state);
+    #####: 1185:        cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+    #####: 1186:        if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+    #####: 1187:          drawntreasure++;
+        -: 1188:        else{
+    #####: 1189:          temphand[z]=cardDrawn;
+    #####: 1190:          state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+    #####: 1191:          z++;
+        -: 1192:        }
+        -: 1193:      }
+    #####: 1194:      while(z-1>=0){
+    #####: 1195:        state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+    #####: 1196:        z=z-1;
+        -: 1197:      }
+    #####: 1198:      return 0;
+        -: 1199:}
+        -: 1200:
+        -: 1201:// SMITHY CARD REFACTORING *************************
+    #####: 1202:int smithyEffect(int currentPlayer, struct gameState *state, int handPos) {
+        -: 1203:    // +3 cards
+        -: 1204:    // BUG ADDED: draws 2 cards instead of 3
+    #####: 1205:    for (int i=0; i<3; i++)
+        -: 1206:    {
+    #####: 1207:        drawCard(currentPlayer, state);
+        -: 1208:    }
+        -: 1209:    //discard card from hand
+    #####: 1210:    discardCard(handPos, currentPlayer, state, 0);
+    #####: 1211:    return 0;
+        -: 1212:}
+        -: 1213:
+        -: 1214:// VILLAGE CARD REFACTORING *********************
+    #####: 1215:int villageEffect(int currentPlayer, struct gameState *state, int handPos) {
+        -: 1216:    //+1 card
+    #####: 1217:    drawCard(currentPlayer, state);
+        -: 1218:    //+2 Actions
+        -: 1219:    // BUG ADDED: +1 action instead of +2
+    #####: 1220:    state->numActions = state->numActions + 1;
+        -: 1221:    // discard played card from hand
+    #####: 1222:    discardCard(handPos, currentPlayer, state, 0);
+    #####: 1223:    return 0;
+        -: 1224:}
+        -: 1225:
+        -: 1226:// GREAT HALL REFACTORING **********************
+    #####: 1227:int greatHallEffect(int currentPlayer, struct gameState *state, int handPos) {
+        -: 1228:    //+1 card
+    #####: 1229:    drawCard(currentPlayer, state);
+        -: 1230:    //+1 action
+    #####: 1231:    state->numActions++;
+        -: 1232:    //discard card from hand
+        -: 1233:    // BUG ADDED: commented out discard code so no card is discarded
+        -: 1234:    //discardCard(handPos, currentPlayer, state, 0);
+    #####: 1235:    return 0;
+        -: 1236:}
+        -: 1237:
+        -: 1238:// STEWARD REFACTORING **********************
+    #####: 1239:int stewardEffect(int choice1, int choice2, int choice3, int currentPlayer, struct gameState *state, int handPos) {
+    #####: 1240:     if (choice1 == 1)
+        -: 1241:     {
+        -: 1242:       //+2 cards
+    #####: 1243:       drawCard(currentPlayer, state);
+    #####: 1244:       drawCard(currentPlayer, state);
+        -: 1245:     }
+    #####: 1246:     else if (choice1 == 2)
+        -: 1247:     {
+        -: 1248:        //+2 coins
+    #####: 1249:        state->coins = state->coins + 2;
+        -: 1250:     }
+        -: 1251:     else
+        -: 1252:     {
+        -: 1253:        //trash 2 cards in hand
+    #####: 1254:        discardCard(choice2, currentPlayer, state, 1);
+    #####: 1255:        discardCard(choice3, currentPlayer, state, 1);
+        -: 1256:     }
+        -: 1257:
+        -: 1258:     // discard card from hand
+    #####: 1259:     discardCard(handPos, currentPlayer, state, 0);
+    #####: 1260:     return 0;
+        -: 1261:}
+        -: 1262:
+        -: 1263:
+      500: 1264:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
+        -: 1265:{
+        -: 1266:
+        -: 1267:  //if card is not trashed, added to Played pile
+      500: 1268:  if (trashFlag < 1)
+        -: 1269:    {
+        -: 1270:      //add card to played pile
+      500: 1271:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos];
+      500: 1272:      state->playedCardCount++;
+        -: 1273:    }
+        -: 1274:
+        -: 1275:  //set played card to -1
+      500: 1276:  state->hand[currentPlayer][handPos] = -1;
+        -: 1277:
+        -: 1278:  //remove card from player's hand
+      500: 1279:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
+        -: 1280:    {
+        -: 1281:      //reduce number of cards in hand
+    #####: 1282:      state->handCount[currentPlayer]--;
+        -: 1283:    }
+      500: 1284:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+        -: 1285:    {
+        -: 1286:      //reduce number of cards in hand
+    #####: 1287:      state->handCount[currentPlayer]--;
+        -: 1288:    }
+        -: 1289:  else
+        -: 1290:    {
+        -: 1291:      //replace discarded card with last card in hand
+      500: 1292:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+        -: 1293:      //set last card to -1
+      500: 1294:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+        -: 1295:      //reduce number of cards in hand
+      500: 1296:      state->handCount[currentPlayer]--;
+        -: 1297:    }
+        -: 1298:
+      500: 1299:  return 0;
+        -: 1300:}
+        -: 1301:
+    #####: 1302:int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
+        -: 1303:{
+        -: 1304:  //Note: supplyPos is enum of choosen card
+        -: 1305:
+        -: 1306:  //check if supply pile is empty (0) or card is not used in game (-1)
+    #####: 1307:  if ( supplyCount(supplyPos, state) < 1 )
+        -: 1308:    {
+    #####: 1309:      return -1;
+        -: 1310:    }
+        -: 1311:
+        -: 1312:  //added card for [whoseTurn] current player:
+        -: 1313:  // toFlag = 0 : add to discard
+        -: 1314:  // toFlag = 1 : add to deck
+        -: 1315:  // toFlag = 2 : add to hand
+        -: 1316:
+    #####: 1317:  if (toFlag == 1)
+        -: 1318:    {
+    #####: 1319:      state->deck[ player ][ state->deckCount[player] ] = supplyPos;
+    #####: 1320:      state->deckCount[player]++;
+        -: 1321:    }
+    #####: 1322:  else if (toFlag == 2)
+        -: 1323:    {
+    #####: 1324:      state->hand[ player ][ state->handCount[player] ] = supplyPos;
+    #####: 1325:      state->handCount[player]++;
+        -: 1326:    }
+        -: 1327:  else
+        -: 1328:    {
+    #####: 1329:      state->discard[player][ state->discardCount[player] ] = supplyPos;
+    #####: 1330:      state->discardCount[player]++;
+        -: 1331:    }
+        -: 1332:
+        -: 1333:  //decrease number in supply pile
+    #####: 1334:  state->supplyCount[supplyPos]--;
+        -: 1335:
+    #####: 1336:  return 0;
+        -: 1337:}
+        -: 1338:
+    #####: 1339:int updateCoins(int player, struct gameState *state, int bonus)
+        -: 1340:{
+        -: 1341:  int i;
+        -: 1342:
+        -: 1343:  //reset coin count
+    #####: 1344:  state->coins = 0;
+        -: 1345:
+        -: 1346:  //add coins for each Treasure card in player's hand
+    #####: 1347:  for (i = 0; i < state->handCount[player]; i++)
+        -: 1348:    {
+    #####: 1349:      if (state->hand[player][i] == copper)
+        -: 1350:	{
+    #####: 1351:	  state->coins += 1;
+        -: 1352:	}
+    #####: 1353:      else if (state->hand[player][i] == silver)
+        -: 1354:	{
+    #####: 1355:	  state->coins += 2;
+        -: 1356:	}
+    #####: 1357:      else if (state->hand[player][i] == gold)
+        -: 1358:	{
+    #####: 1359:	  state->coins += 3;
+        -: 1360:	}
+        -: 1361:    }
+        -: 1362:
+        -: 1363:  //add bonus
+    #####: 1364:  state->coins += bonus;
+        -: 1365:
+    #####: 1366:  return 0;
+        -: 1367:}
+        -: 1368:
+        -: 1369:
+        -: 1370://end of dominion.c
